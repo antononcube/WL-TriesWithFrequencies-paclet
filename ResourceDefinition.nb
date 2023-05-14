@@ -39,7 +39,7 @@ Cell["", "FileManagerTopSpacer",
  CellGroupingRules->{"SectionGrouping", 99},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->612264942,ExpressionUUID->"b015a13d-07d8-467c-b8a0-8eec38749265"],
+ CellID->612264942,ExpressionUUID->"b5c22de1-d5a0-414a-9ba0-64d9382cb35a"],
 
 Cell[CellGroupData[{
 
@@ -68,7 +68,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"64b347c7-72a6-4502-ab80-f91e2d23f099"]], \
+   "Text"}]],ExpressionUUID->"6e3fabfe-8e4e-454f-b8e2-1bd53f812bb2"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -79,7 +79,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDocumentationIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1742727417,ExpressionUUID->"1d9eee80-cbd8-48a9-9258-46d8aab427cc"],
+ CellID->1742727417,ExpressionUUID->"520dee43-e3b0-4bef-8fb9-dabb1c723668"],
 
 Cell[CellGroupData[{
 
@@ -108,7 +108,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"035de883-a51c-4daa-9a76-e5e3e23f9974"]], \
+   "Text"}]],ExpressionUUID->"00b2a318-58b6-47e4-8fad-69406d3f6245"]], \
 "FileManagerDirectory",
  CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 110},
@@ -119,7 +119,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->467150064,ExpressionUUID->"d87bc89b-8e03-43fc-92f0-67c95c97c933"],
+ CellID->467150064,ExpressionUUID->"d7091a5a-7303-49c1-aa2e-4c127d5429b2"],
 
 Cell[CellGroupData[{
 
@@ -147,7 +147,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Guides"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"140b43d1-b982-4dca-bde6-aecb79a56316"]], \
+   "Text"}]],ExpressionUUID->"f2525ca6-82ac-4740-bdd6-cda9d6d891ce"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -158,7 +158,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->190912216,ExpressionUUID->"d34beb53-f531-45a3-8893-e3ee01b17d2a"],
+ CellID->190912216,ExpressionUUID->"c21321b4-b5be-4375-9c09-6ad2b214b63c"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -184,7 +184,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->321045694,ExpressionUUID->"b0d6c6f0-bea5-4d16-adc1-aec767020ea6"]
+ CellID->321045694,ExpressionUUID->"e0d32ef1-3298-42b3-8138-9e06b912edff"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -214,7 +214,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "ReferencePages"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"16b23f31-6d5d-4c2a-b05b-85518c403eb9"]], \
+   "Text"}]],ExpressionUUID->"7446f565-460e-483d-b9a3-7d13be9f929c"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -225,7 +225,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1336057794,ExpressionUUID->"2afe3894-54cb-4993-b08a-69af219c6b1c"],
+ CellID->1336057794,ExpressionUUID->"5f61d600-3c39-444e-8238-7e30b3902090"],
 
 Cell[CellGroupData[{
 
@@ -255,7 +255,7 @@ Cell[TextData[Cell[BoxData[
     "Symbols"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"88f3e169-c088-457b-9256-80cfcd48faeb"]], \
+   "Text"}]],ExpressionUUID->"320c79cd-6e6c-49e3-94d4-5d671989f360"]], \
 "FileManagerDirectory",
  CellMargins->{{69 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 130},
@@ -266,7 +266,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1034330726,ExpressionUUID->"ef2a13f3-11bd-4acc-bd4e-d1e36221d878"],
+ CellID->1034330726,ExpressionUUID->"1790b60d-f881-4dde-81fb-982bdaebeab8"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -292,7 +292,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->116389417,ExpressionUUID->"d25b63ae-23ea-4504-ab1a-5f61a68d1bd4"],
+ CellID->116389417,ExpressionUUID->"8ec69e68-26e2-4f01-80d1-7c2dd4c4e4e1"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -318,7 +318,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1946812749,ExpressionUUID->"11f65e0d-d5fe-4439-b120-7f7008a51e81"],
+ CellID->1946812749,ExpressionUUID->"1bdab6cf-52d1-4701-8700-d291e6f80e2b"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -344,7 +344,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1021026751,ExpressionUUID->"17b6765a-0e54-4cc6-b58e-20511b62dad3"],
+ CellID->1021026751,ExpressionUUID->"4bf4255a-923a-445a-b5d5-cfc5ed27ab3a"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -370,7 +370,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->2002264527,ExpressionUUID->"1d5692ca-9dbc-4e4f-87d9-bd9649ef5b21"],
+ CellID->2002264527,ExpressionUUID->"a86de397-701c-4c50-b913-ddf49afdb3ff"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -396,7 +396,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->991156799,ExpressionUUID->"db64445b-2072-40bd-9742-4bb3df314b45"],
+ CellID->991156799,ExpressionUUID->"98110a38-a3cc-4772-b39d-8679b675333b"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -422,7 +422,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->341671014,ExpressionUUID->"00b64965-22a4-4554-9b15-f99ae324811e"],
+ CellID->341671014,ExpressionUUID->"121b29d1-322f-448a-8e52-1950530bfd30"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -448,7 +448,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->93460220,ExpressionUUID->"5e28d745-1c44-422b-b9dd-6a466cfdd04d"],
+ CellID->93460220,ExpressionUUID->"ab5b5b32-bd83-4407-9eb2-1f1398850d61"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -474,7 +474,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->975371583,ExpressionUUID->"f7deadb0-a123-4eee-b98b-afb29d18d730"],
+ CellID->975371583,ExpressionUUID->"9f1027c9-900e-4f2e-869d-a941a24a0b46"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -500,7 +500,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1327517930,ExpressionUUID->"b5d1d447-d9af-4269-93fc-bc642ee7a26b"],
+ CellID->1327517930,ExpressionUUID->"5f707cdf-b89f-459f-8c1d-d43b73aecaba"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -526,7 +526,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1386240827,ExpressionUUID->"e131e89a-b03b-4557-bfbb-4285a7ab6efa"],
+ CellID->1386240827,ExpressionUUID->"f1f7519d-b53b-4498-a746-07b80524a871"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -552,7 +552,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->499493086,ExpressionUUID->"d6a56ebf-c3f2-4aa5-b0c8-2fa8610cdc86"],
+ CellID->499493086,ExpressionUUID->"09b9ef6d-a6b0-46eb-ad4d-4be0e5d93408"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -578,7 +578,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->466720279,ExpressionUUID->"00d0aa2d-5cd8-43ef-ad03-2f92efcd7a2c"],
+ CellID->466720279,ExpressionUUID->"6888c75d-ad43-4342-976f-ccb92c9ce89e"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -604,7 +604,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1557450309,ExpressionUUID->"0403c6fd-281c-49fd-b951-632212f8d546"],
+ CellID->1557450309,ExpressionUUID->"3ab4cc99-3eef-4615-bb79-b431e9247857"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -630,7 +630,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->389170080,ExpressionUUID->"8fd5af27-857f-41e6-8ae4-079f030fab4b"],
+ CellID->389170080,ExpressionUUID->"a9d8f915-0989-4c90-9549-a4760beb56fa"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -656,7 +656,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1693829445,ExpressionUUID->"bbcce5ef-07b6-485e-a89c-e1f7fb95b799"],
+ CellID->1693829445,ExpressionUUID->"02828636-3c88-4d91-bd4b-79e6f4ff471d"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -682,7 +682,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1148257483,ExpressionUUID->"82212c81-23cc-415e-93cf-20bdd680d08b"],
+ CellID->1148257483,ExpressionUUID->"eb18eff6-e974-4a24-bacb-fbb116531185"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -708,7 +708,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1475464839,ExpressionUUID->"dc09b663-f120-4f7d-9716-9bd9e384ef86"],
+ CellID->1475464839,ExpressionUUID->"4037f3c2-3371-4069-82b2-79d2d7b47946"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -734,7 +734,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1143877164,ExpressionUUID->"004e11d2-e91f-439c-92d2-f63c89fee4b8"],
+ CellID->1143877164,ExpressionUUID->"b3430389-3c19-4169-b0fd-355dec6f1d43"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -760,7 +760,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->869887404,ExpressionUUID->"0df87090-1804-4932-ba81-c12600de172d"],
+ CellID->869887404,ExpressionUUID->"a007810f-ca26-4292-88c5-448383e14985"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -786,7 +786,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->128930252,ExpressionUUID->"31f7f2f6-4b88-4d6c-9259-ee0a071fa4f9"],
+ CellID->128930252,ExpressionUUID->"f65e7421-60dc-4bb4-b2b2-2647b942036f"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -812,7 +812,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->119745541,ExpressionUUID->"aec94270-72c0-4346-84db-a0a72e8eb277"],
+ CellID->119745541,ExpressionUUID->"b4bbf066-96bf-4927-860e-55591f8afcdb"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -838,7 +838,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->371130348,ExpressionUUID->"053b819e-ace2-408f-ad4b-b736e4c5e83e"],
+ CellID->371130348,ExpressionUUID->"bb817c8e-1326-49eb-8949-b76b3f568b0f"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -864,7 +864,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1295247948,ExpressionUUID->"b1846467-2795-45c1-978e-3e6b82d131f3"],
+ CellID->1295247948,ExpressionUUID->"55c33850-494b-4098-9b04-d9101d65040c"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -890,7 +890,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->190532397,ExpressionUUID->"36f129fb-f09d-46f7-ac25-5fd73e6ae10e"],
+ CellID->190532397,ExpressionUUID->"791971c7-1943-4698-b433-1e17b3ff9320"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -916,7 +916,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->379878702,ExpressionUUID->"dce6cec1-8892-470e-9494-7c8c7b64676d"],
+ CellID->379878702,ExpressionUUID->"b1405df1-d377-4911-85bb-02b851d05f3c"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -942,7 +942,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->152461983,ExpressionUUID->"fa0fa1a9-1d4d-411d-89da-cadf6bc2eb3e"],
+ CellID->152461983,ExpressionUUID->"2da950ea-5b1c-4864-9835-491078472c07"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -968,7 +968,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->480557410,ExpressionUUID->"477dbf8d-3609-49a2-b626-53bf1a29b2a3"],
+ CellID->480557410,ExpressionUUID->"18bf11e7-c6c5-45af-b165-21340dc3c7c1"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -994,7 +994,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->42393503,ExpressionUUID->"47ecd5a0-8421-4291-a2b0-902b97de34a9"],
+ CellID->42393503,ExpressionUUID->"84f8163c-c1c2-4560-a013-28a9153a8e2d"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1020,7 +1020,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1690517764,ExpressionUUID->"cf139b9d-d3d3-467c-bc47-5ab6574b2999"],
+ CellID->1690517764,ExpressionUUID->"ec2f2e34-ed18-4bd6-93bb-a25f7a322663"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1046,7 +1046,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1323409738,ExpressionUUID->"5577c248-3bc8-4662-ab15-bfb31bfbdd67"],
+ CellID->1323409738,ExpressionUUID->"5d135046-5ae2-423b-bd5f-565295e15e23"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1072,7 +1072,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1059334587,ExpressionUUID->"93aed935-118c-439d-ad9c-db4c32e2604a"],
+ CellID->1059334587,ExpressionUUID->"3f1dbc83-74dd-47b9-b866-cab67f1d032c"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1098,7 +1098,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1596970079,ExpressionUUID->"4d7a39d8-9623-42fd-bae9-e3b3c87667c8"],
+ CellID->1596970079,ExpressionUUID->"c4878a5a-09bb-4c89-9e7a-504af33bdf31"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1124,7 +1124,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1025497547,ExpressionUUID->"f33bad7f-988f-4be9-956b-cc60ae9463ff"],
+ CellID->1025497547,ExpressionUUID->"5a87c9b8-b229-4ed0-9ec6-f50650dcfcb4"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1150,7 +1150,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1981005254,ExpressionUUID->"4aaeae9c-1979-4147-8cbc-02f96a267b74"],
+ CellID->1981005254,ExpressionUUID->"988cf969-2b6d-426e-a6e5-3b39e240bba1"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1176,7 +1176,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->168840890,ExpressionUUID->"7f3ee1b7-4527-4077-b576-d370a92f480b"],
+ CellID->168840890,ExpressionUUID->"474608fb-34a4-449f-b975-403ca691afe8"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1202,7 +1202,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->882940543,ExpressionUUID->"dd0e6a32-b39e-4e72-a178-c462c7e44945"],
+ CellID->882940543,ExpressionUUID->"6bb50780-d6a5-4b12-8124-d29cec08d3e5"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1228,7 +1228,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->469705431,ExpressionUUID->"040d645d-1b22-44fa-986e-639d651f9e9c"],
+ CellID->469705431,ExpressionUUID->"9882baa6-ae3b-4085-850a-451dc10a66f5"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1254,7 +1254,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->189292445,ExpressionUUID->"910311e2-8fa8-4b03-a1af-c051f977fa6e"],
+ CellID->189292445,ExpressionUUID->"19ca11a8-2098-44e2-99a1-ca9801bc4a93"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1280,7 +1280,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1014841908,ExpressionUUID->"cb696185-7b37-4b2f-9209-491b5c546a9c"],
+ CellID->1014841908,ExpressionUUID->"1da89b1e-598c-434e-90df-f6acb9e3c4ae"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1306,7 +1306,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1132823282,ExpressionUUID->"96e80535-1e1f-4226-abba-483cd92864bc"],
+ CellID->1132823282,ExpressionUUID->"d755ecf7-e844-4492-89be-30fb5308bd79"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1332,7 +1332,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1918369919,ExpressionUUID->"6397596e-c7f2-4bd0-9f61-030491af6f8c"],
+ CellID->1918369919,ExpressionUUID->"43958cc7-886a-4658-87bd-fcfbdad7c61a"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1358,7 +1358,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1871236222,ExpressionUUID->"d6c7bdd4-c36c-407a-948b-d864ea7d22e5"],
+ CellID->1871236222,ExpressionUUID->"edf9093a-9636-490f-903b-c3bf492adcc0"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1384,7 +1384,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->2116656486,ExpressionUUID->"7faffb4a-6787-4136-a74d-b917f021a2ca"],
+ CellID->2116656486,ExpressionUUID->"7385aa93-4cab-49a7-9c7e-17f0ce754ed5"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1410,7 +1410,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1578947647,ExpressionUUID->"df2be674-8cc4-4145-8448-f7450a89aba5"],
+ CellID->1578947647,ExpressionUUID->"bbc231e3-0d10-43f3-8708-0e66ea32de82"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1436,7 +1436,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->917677150,ExpressionUUID->"9dba3c88-d930-4d00-8d6f-32083222e7ec"],
+ CellID->917677150,ExpressionUUID->"56a69e6d-eca6-4925-a318-a9890622459c"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1462,7 +1462,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->172307296,ExpressionUUID->"0104a2c0-69cb-4446-8280-23ee4d0c1eb8"],
+ CellID->172307296,ExpressionUUID->"e7b402e1-13e3-40e8-a6af-0e505df90757"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1488,7 +1488,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1160767716,ExpressionUUID->"30c45cb4-88f3-4a54-96ff-677c212ef1f9"],
+ CellID->1160767716,ExpressionUUID->"be03f08d-795e-4b77-b88b-60dddae4cade"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1514,7 +1514,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1281553464,ExpressionUUID->"5cf01456-3612-4b0a-bcf9-e39747b83a4d"],
+ CellID->1281553464,ExpressionUUID->"0a922b7f-b4f0-482c-8568-0f9f9cd41223"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1540,9 +1540,9 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1955573685,ExpressionUUID->"497b7649-9173-46b6-ad15-a556c3f4fb10"]
-}, Closed]]
-}, Closed]],
+ CellID->1955573685,ExpressionUUID->"257bb8af-56d2-45cb-bf20-2ca196b3d841"]
+}, Open  ]]
+}, Open  ]],
 
 Cell[CellGroupData[{
 
@@ -1571,7 +1571,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Tutorials"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"f03dfd64-0346-437e-b59f-a7e6a38b9ab6"]], \
+   "Text"}]],ExpressionUUID->"195034a7-ef80-4ade-988e-d044aa527780"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -1582,7 +1582,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->89706460,ExpressionUUID->"72ba8786-2d39-457e-bd04-c087e239db66"],
+ CellID->89706460,ExpressionUUID->"42453c12-a049-49ba-a31f-6a61eb0d31f4"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1608,7 +1608,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1345880055,ExpressionUUID->"befad11f-f168-43a8-946c-c2a5160c9b47"],
+ CellID->1345880055,ExpressionUUID->"16866bc3-bfa0-4a21-bd6d-eda0c9ffdd99"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1634,7 +1634,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1956782607,ExpressionUUID->"4e40d96a-f24f-461f-85e7-5f89ec8d5bce"]
+ CellID->1956782607,ExpressionUUID->"c6f86758-ab58-4ad1-831c-97d28756c636"]
 }, Closed]]
 }, Open  ]]
 }, Open  ]],
@@ -1665,7 +1665,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Kernel"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"14c5fa7a-6df6-4063-97c5-66cda34837a4"]], \
+   "Text"}]],ExpressionUUID->"63ac5906-040c-4c5e-91ce-befea7d45fa2"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -1676,7 +1676,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerKernelIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->490236086,ExpressionUUID->"6cf020d6-838b-41ea-a502-6a0732ed9acd"],
+ CellID->490236086,ExpressionUUID->"f88cfad3-a358-4d43-bfc0-a856251504df"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1700,8 +1700,32 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1650627510,ExpressionUUID->"f82ab5ae-c5af-4522-8cb9-35c7820effa7"]
+ CellID->1650627510,ExpressionUUID->"fb919a55-0d87-4d29-a9b2-76efb9f777c3"]
 }, Open  ]],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"LICENSE\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "LICENSE"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[0]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "LICENSE"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 100},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerUnknownIconTemplate"]], Background -> None],
+     Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->2010355058,ExpressionUUID->"329402ea-c34b-46ae-ad16-c405e980e157"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1725,7 +1749,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPacletInfoIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->902808624,ExpressionUUID->"533ece0b-4adb-4d07-bf9f-cd0d22713b13"],
+ CellID->902808624,ExpressionUUID->"9b2d8282-9c95-4ebd-8cd2-50ff7e6531cf"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1749,13 +1773,13 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1532577513,ExpressionUUID->"d68ba19a-5fc9-4d7c-ae69-086fd54787ff"],
+ CellID->1532577513,ExpressionUUID->"b60f7dea-31f1-4c49-950e-e5535e1d530d"],
 
 Cell["", "FileManagerBottomSpacer",
  CellGroupingRules->{"SectionGrouping", 100},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1111398873,ExpressionUUID->"33372045-e78f-47f4-9b46-2acdbf974f56"]
+ CellID->1111398873,ExpressionUUID->"4d11f703-e280-4ada-be70-59a2cc4f5299"]
 }, Open  ]]
 }, Open  ]],
 
@@ -2837,7 +2861,7 @@ Cell[BoxData[
    RowBox[{"NotebookDirectory", "[", "]"}], "]"}], ";"}]], "Input", "Excluded",
  TaggingRules->{},
  InitializationCell->True,
- CellLabel->"In[3]:=",
+ CellLabel->"In[1]:=",
  CellID->996717066,ExpressionUUID->"4a203edc-31cc-4338-9f3e-731494ed7654"],
 
 Cell[BoxData[
@@ -2846,7 +2870,7 @@ Cell[BoxData[
   ";"}]], "Input", "Excluded",
  TaggingRules->{},
  InitializationCell->True,
- CellLabel->"In[4]:=",
+ CellLabel->"In[2]:=",
  CellID->172764492,ExpressionUUID->"d288e3ce-4387-4b9c-b877-5895bcfeec3b"]
 }, Open  ]],
 
@@ -2880,7 +2904,7 @@ Cell[BoxData[{
  TaggingRules->{},
  CellChangeTimes->{{3.891027336553872*^9, 3.8910274132141237`*^9}, {
   3.8910284990447197`*^9, 3.8910285284529467`*^9}},
- CellLabel->"In[43]:=",
+ CellLabel->"In[3]:=",
  CellID->1805488712,ExpressionUUID->"c2128373-c7ea-41cf-a80f-6647e3ddaea0"],
 
 Cell[BoxData[
@@ -3417,9 +3441,10 @@ Cell[BoxData[
   FormatType->TraditionalForm,
   FrameTicks->None]], "Output",
  TaggingRules->{},
- CellChangeTimes->{{3.891028489379292*^9, 3.891028529126916*^9}},
- CellLabel->"Out[44]=",
- CellID->1562864120,ExpressionUUID->"725fecc0-daa8-40f2-85e6-16a3052d342c"]
+ CellChangeTimes->{{3.891028489379292*^9, 3.891028529126916*^9}, 
+   3.8930801711837*^9},
+ CellLabel->"Out[4]=",
+ CellID->1354349088,ExpressionUUID->"e75c3ae0-1591-4144-8283-091fc8bebce3"]
 }, Open  ]],
 
 Cell["\<\
@@ -3446,7 +3471,7 @@ Cell[BoxData[{
   3.8910285127072973`*^9, 3.891028516118384*^9}, {3.891028566587886*^9, 
   3.891028566966935*^9}, {3.89102864709315*^9, 3.8910286548116837`*^9}, {
   3.8910290787212667`*^9, 3.89102908472526*^9}},
- CellLabel->"In[52]:=",
+ CellLabel->"In[114]:=",
  CellID->1320344743,ExpressionUUID->"587df871-b7f5-4712-b92c-5de4ea0271a7"],
 
 Cell[BoxData[
@@ -3467,7 +3492,7 @@ Cell[BoxData[
        "VertexID$5", Automatic, Center]}], 
      ArrowBox[{
       DynamicLocation["VertexID$3", Automatic, Center], DynamicLocation[
-       "VertexID$15", Automatic, Center]}], 
+       "VertexID$11", Automatic, Center]}], 
      ArrowBox[{
       DynamicLocation["VertexID$4", Automatic, Center], DynamicLocation[
        "VertexID$6", Automatic, Center]}], 
@@ -3478,38 +3503,20 @@ Cell[BoxData[
       DynamicLocation["VertexID$6", Automatic, Center], DynamicLocation[
        "VertexID$7", Automatic, Center]}], 
      ArrowBox[{
-      DynamicLocation["VertexID$6", Automatic, Center], DynamicLocation[
+      DynamicLocation["VertexID$7", Automatic, Center], DynamicLocation[
        "VertexID$8", Automatic, Center]}], 
      ArrowBox[{
-      DynamicLocation["VertexID$6", Automatic, Center], DynamicLocation[
+      DynamicLocation["VertexID$8", Automatic, Center], DynamicLocation[
        "VertexID$9", Automatic, Center]}], 
      ArrowBox[{
-      DynamicLocation["VertexID$10", Automatic, Center], DynamicLocation[
-       "VertexID$11", Automatic, Center]}], 
-     ArrowBox[{
-      DynamicLocation["VertexID$10", Automatic, Center], DynamicLocation[
+      DynamicLocation["VertexID$11", Automatic, Center], DynamicLocation[
        "VertexID$12", Automatic, Center]}], 
      ArrowBox[{
-      DynamicLocation["VertexID$10", Automatic, Center], DynamicLocation[
+      DynamicLocation["VertexID$11", Automatic, Center], DynamicLocation[
        "VertexID$13", Automatic, Center]}], 
      ArrowBox[{
       DynamicLocation["VertexID$13", Automatic, Center], DynamicLocation[
-       "VertexID$14", Automatic, Center]}], 
-     ArrowBox[{
-      DynamicLocation["VertexID$15", Automatic, Center], DynamicLocation[
-       "VertexID$16", Automatic, Center]}], 
-     ArrowBox[{
-      DynamicLocation["VertexID$15", Automatic, Center], DynamicLocation[
-       "VertexID$17", Automatic, Center]}], 
-     ArrowBox[{
-      DynamicLocation["VertexID$15", Automatic, Center], DynamicLocation[
-       "VertexID$18", Automatic, Center]}], 
-     ArrowBox[{
-      DynamicLocation["VertexID$17", Automatic, Center], DynamicLocation[
-       "VertexID$19", Automatic, Center]}], 
-     ArrowBox[{
-      DynamicLocation["VertexID$18", Automatic, Center], DynamicLocation[
-       "VertexID$20", Automatic, Center]}]}, 
+       "VertexID$14", Automatic, Center]}]}, 
     {Hue[0.66, 1, 0.7], 
      TagBox[
       TagBox[
@@ -3520,7 +3527,7 @@ Cell[BoxData[
             RowBox[{"$TrieRoot", ",", "1"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {0., 5.}],
+           StripOnInput->False], {0., 6.}],
          "DynamicName",
          BoxID -> "VertexID$1"],
         RowBox[{"{", 
@@ -3539,19 +3546,19 @@ Cell[BoxData[
         TagBox[InsetBox[
           FrameBox[
            RowBox[{"{", 
-            RowBox[{"\<\"w\"\>", ",", "0.6363636363636364`"}], "}"}],
+            RowBox[{"\<\"w\"\>", ",", "0.5714285714285714`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-2., 4.}],
+           StripOnInput->False], {-1., 5.}],
          "DynamicName",
          BoxID -> "VertexID$2"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
-              RowBox[{"\"w\"", ",", "0.6363636363636364`"}], "}"}], ",", 
+              RowBox[{"\"w\"", ",", "0.5714285714285714`"}], "}"}], ",", 
             RowBox[{"{", 
               RowBox[{"1", ",", "0"}], "}"}]}], "}"}]],
-       Annotation[#, {{"w", 0.6363636363636364}, {1, 0}}, "Tooltip"]& ],
+       Annotation[#, {{"w", 0.5714285714285714}, {1, 0}}, "Tooltip"]& ],
       "DynamicName",
       BoxID -> "VertexLabelID$2"], 
      TagBox[
@@ -3560,19 +3567,19 @@ Cell[BoxData[
         TagBox[InsetBox[
           FrameBox[
            RowBox[{"{", 
-            RowBox[{"\<\"c\"\>", ",", "0.36363636363636365`"}], "}"}],
+            RowBox[{"\<\"c\"\>", ",", "0.42857142857142855`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {0., 4.}],
+           StripOnInput->False], {0., 5.}],
          "DynamicName",
          BoxID -> "VertexID$3"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
-              RowBox[{"\"c\"", ",", "0.36363636363636365`"}], "}"}], ",", 
+              RowBox[{"\"c\"", ",", "0.42857142857142855`"}], "}"}], ",", 
             RowBox[{"{", 
               RowBox[{"1", ",", "1"}], "}"}]}], "}"}]],
-       Annotation[#, {{"c", 0.36363636363636365`}, {1, 1}}, "Tooltip"]& ],
+       Annotation[#, {{"c", 0.42857142857142855`}, {1, 1}}, "Tooltip"]& ],
       "DynamicName",
       BoxID -> "VertexLabelID$3"], 
      TagBox[
@@ -3581,19 +3588,19 @@ Cell[BoxData[
         TagBox[InsetBox[
           FrameBox[
            RowBox[{"{", 
-            RowBox[{"\<\"a\"\>", ",", "0.5714285714285714`"}], "}"}],
+            RowBox[{"\<\"a\"\>", ",", "0.75`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-4., 3.}],
+           StripOnInput->False], {-2., 4.}],
          "DynamicName",
          BoxID -> "VertexID$4"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
-              RowBox[{"\"a\"", ",", "0.5714285714285714`"}], "}"}], ",", 
+              RowBox[{"\"a\"", ",", "0.75`"}], "}"}], ",", 
             RowBox[{"{", 
               RowBox[{"2", ",", "2"}], "}"}]}], "}"}]],
-       Annotation[#, {{"a", 0.5714285714285714}, {2, 2}}, "Tooltip"]& ],
+       Annotation[#, {{"a", 0.75}, {2, 2}}, "Tooltip"]& ],
       "DynamicName",
       BoxID -> "VertexLabelID$4"], 
      TagBox[
@@ -3602,19 +3609,19 @@ Cell[BoxData[
         TagBox[InsetBox[
           FrameBox[
            RowBox[{"{", 
-            RowBox[{"\<\"o\"\>", ",", "0.42857142857142855`"}], "}"}],
+            RowBox[{"\<\"o\"\>", ",", "0.25`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-2., 3.}],
+           StripOnInput->False], {-1., 4.}],
          "DynamicName",
          BoxID -> "VertexID$5"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
-              RowBox[{"\"o\"", ",", "0.42857142857142855`"}], "}"}], ",", 
+              RowBox[{"\"o\"", ",", "0.25`"}], "}"}], ",", 
             RowBox[{"{", 
               RowBox[{"2", ",", "3"}], "}"}]}], "}"}]],
-       Annotation[#, {{"o", 0.42857142857142855`}, {2, 3}}, "Tooltip"]& ],
+       Annotation[#, {{"o", 0.25}, {2, 3}}, "Tooltip"]& ],
       "DynamicName",
       BoxID -> "VertexLabelID$5"], 
      TagBox[
@@ -3626,7 +3633,7 @@ Cell[BoxData[
             RowBox[{"\<\"r\"\>", ",", "1.`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-4., 2.}],
+           StripOnInput->False], {-2., 3.}],
          "DynamicName",
          BoxID -> "VertexID$6"],
         RowBox[{"{", 
@@ -3644,19 +3651,19 @@ Cell[BoxData[
         TagBox[InsetBox[
           FrameBox[
            RowBox[{"{", 
-            RowBox[{"\<\"m\"\>", ",", "0.25`"}], "}"}],
+            RowBox[{"\<\"d\"\>", ",", "0.6666666666666666`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-6., 1.}],
+           StripOnInput->False], {-2., 2.}],
          "DynamicName",
          BoxID -> "VertexID$7"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
-              RowBox[{"\"m\"", ",", "0.25`"}], "}"}], ",", 
+              RowBox[{"\"d\"", ",", "0.6666666666666666`"}], "}"}], ",", 
             RowBox[{"{", 
               RowBox[{"4", ",", "5"}], "}"}]}], "}"}]],
-       Annotation[#, {{"m", 0.25}, {4, 5}}, "Tooltip"]& ],
+       Annotation[#, {{"d", 0.6666666666666666}, {4, 5}}, "Tooltip"]& ],
       "DynamicName",
       BoxID -> "VertexLabelID$7"], 
      TagBox[
@@ -3665,19 +3672,19 @@ Cell[BoxData[
         TagBox[InsetBox[
           FrameBox[
            RowBox[{"{", 
-            RowBox[{"\<\"n\"\>", ",", "0.25`"}], "}"}],
+            RowBox[{"\<\"e\"\>", ",", "0.5`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-5., 1.}],
+           StripOnInput->False], {-2., 1.}],
          "DynamicName",
          BoxID -> "VertexID$8"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
-              RowBox[{"\"n\"", ",", "0.25`"}], "}"}], ",", 
+              RowBox[{"\"e\"", ",", "0.5`"}], "}"}], ",", 
             RowBox[{"{", 
-              RowBox[{"4", ",", "6"}], "}"}]}], "}"}]],
-       Annotation[#, {{"n", 0.25}, {4, 6}}, "Tooltip"]& ],
+              RowBox[{"5", ",", "6"}], "}"}]}], "}"}]],
+       Annotation[#, {{"e", 0.5}, {5, 6}}, "Tooltip"]& ],
       "DynamicName",
       BoxID -> "VertexLabelID$8"], 
      TagBox[
@@ -3686,19 +3693,19 @@ Cell[BoxData[
         TagBox[InsetBox[
           FrameBox[
            RowBox[{"{", 
-            RowBox[{"\<\"s\"\>", ",", "0.25`"}], "}"}],
+            RowBox[{"\<\"n\"\>", ",", "1.`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-4., 1.}],
+           StripOnInput->False], {-2., 0.}],
          "DynamicName",
          BoxID -> "VertexID$9"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
-              RowBox[{"\"s\"", ",", "0.25`"}], "}"}], ",", 
+              RowBox[{"\"n\"", ",", "1.`"}], "}"}], ",", 
             RowBox[{"{", 
-              RowBox[{"4", ",", "7"}], "}"}]}], "}"}]],
-       Annotation[#, {{"s", 0.25}, {4, 7}}, "Tooltip"]& ],
+              RowBox[{"6", ",", "7"}], "}"}]}], "}"}]],
+       Annotation[#, {{"n", 1.}, {6, 7}}, "Tooltip"]& ],
       "DynamicName",
       BoxID -> "VertexLabelID$9"], 
      TagBox[
@@ -3707,105 +3714,21 @@ Cell[BoxData[
         TagBox[InsetBox[
           FrameBox[
            RowBox[{"{", 
-            RowBox[{"\<\"r\"\>", ",", "1.`"}], "}"}],
+            RowBox[{"\<\"rk\"\>", ",", "1.`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-2., 2.}],
+           StripOnInput->False], {-1., 3.}],
          "DynamicName",
          BoxID -> "VertexID$10"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
-              RowBox[{"\"r\"", ",", "1.`"}], "}"}], ",", 
+              RowBox[{"\"rk\"", ",", "1.`"}], "}"}], ",", 
             RowBox[{"{", 
               RowBox[{"3", ",", "8"}], "}"}]}], "}"}]],
-       Annotation[#, {{"r", 1.}, {3, 8}}, "Tooltip"]& ],
+       Annotation[#, {{"rk", 1.}, {3, 8}}, "Tooltip"]& ],
       "DynamicName",
       BoxID -> "VertexLabelID$10"], 
-     TagBox[
-      TagBox[
-       TooltipBox[
-        TagBox[InsetBox[
-          FrameBox[
-           RowBox[{"{", 
-            RowBox[{"\<\"k\"\>", ",", "0.3333333333333333`"}], "}"}],
-           Background->RGBColor[1, 1, 0.8],
-           FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-3., 1.}],
-         "DynamicName",
-         BoxID -> "VertexID$11"],
-        RowBox[{"{", 
-          RowBox[{
-            RowBox[{"{", 
-              RowBox[{"\"k\"", ",", "0.3333333333333333`"}], "}"}], ",", 
-            RowBox[{"{", 
-              RowBox[{"4", ",", "9"}], "}"}]}], "}"}]],
-       Annotation[#, {{"k", 0.3333333333333333}, {4, 9}}, "Tooltip"]& ],
-      "DynamicName",
-      BoxID -> "VertexLabelID$11"], 
-     TagBox[
-      TagBox[
-       TooltipBox[
-        TagBox[InsetBox[
-          FrameBox[
-           RowBox[{"{", 
-            RowBox[{"\<\"d\"\>", ",", "0.3333333333333333`"}], "}"}],
-           Background->RGBColor[1, 1, 0.8],
-           FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-2., 1.}],
-         "DynamicName",
-         BoxID -> "VertexID$12"],
-        RowBox[{"{", 
-          RowBox[{
-            RowBox[{"{", 
-              RowBox[{"\"d\"", ",", "0.3333333333333333`"}], "}"}], ",", 
-            RowBox[{"{", 
-              RowBox[{"4", ",", "10"}], "}"}]}], "}"}]],
-       Annotation[#, {{"d", 0.3333333333333333}, {4, 10}}, "Tooltip"]& ],
-      "DynamicName",
-      BoxID -> "VertexLabelID$12"], 
-     TagBox[
-      TagBox[
-       TooltipBox[
-        TagBox[InsetBox[
-          FrameBox[
-           RowBox[{"{", 
-            RowBox[{"\<\"t\"\>", ",", "0.3333333333333333`"}], "}"}],
-           Background->RGBColor[1, 1, 0.8],
-           FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-1., 1.}],
-         "DynamicName",
-         BoxID -> "VertexID$13"],
-        RowBox[{"{", 
-          RowBox[{
-            RowBox[{"{", 
-              RowBox[{"\"t\"", ",", "0.3333333333333333`"}], "}"}], ",", 
-            RowBox[{"{", 
-              RowBox[{"4", ",", "11"}], "}"}]}], "}"}]],
-       Annotation[#, {{"t", 0.3333333333333333}, {4, 11}}, "Tooltip"]& ],
-      "DynamicName",
-      BoxID -> "VertexLabelID$13"], 
-     TagBox[
-      TagBox[
-       TooltipBox[
-        TagBox[InsetBox[
-          FrameBox[
-           RowBox[{"{", 
-            RowBox[{"\<\"h\"\>", ",", "1.`"}], "}"}],
-           Background->RGBColor[1, 1, 0.8],
-           FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-1., 0.}],
-         "DynamicName",
-         BoxID -> "VertexID$14"],
-        RowBox[{"{", 
-          RowBox[{
-            RowBox[{"{", 
-              RowBox[{"\"h\"", ",", "1.`"}], "}"}], ",", 
-            RowBox[{"{", 
-              RowBox[{"5", ",", "12"}], "}"}]}], "}"}]],
-       Annotation[#, {{"h", 1.}, {5, 12}}, "Tooltip"]& ],
-      "DynamicName",
-      BoxID -> "VertexLabelID$14"], 
      TagBox[
       TagBox[
        TooltipBox[
@@ -3815,102 +3738,60 @@ Cell[BoxData[
             RowBox[{"\<\"ar\"\>", ",", "1.`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {0., 3.}],
+           StripOnInput->False], {0., 4.}],
          "DynamicName",
-         BoxID -> "VertexID$15"],
+         BoxID -> "VertexID$11"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
               RowBox[{"\"ar\"", ",", "1.`"}], "}"}], ",", 
             RowBox[{"{", 
-              RowBox[{"2", ",", "13"}], "}"}]}], "}"}]],
-       Annotation[#, {{"ar", 1.}, {2, 13}}, "Tooltip"]& ],
+              RowBox[{"2", ",", "9"}], "}"}]}], "}"}]],
+       Annotation[#, {{"ar", 1.}, {2, 9}}, "Tooltip"]& ],
       "DynamicName",
-      BoxID -> "VertexLabelID$15"], 
+      BoxID -> "VertexLabelID$11"], 
      TagBox[
       TagBox[
        TooltipBox[
         TagBox[InsetBox[
           FrameBox[
            RowBox[{"{", 
-            RowBox[{"\<\"s\"\>", ",", "0.25`"}], "}"}],
+            RowBox[{"\<\"s\"\>", ",", "0.3333333333333333`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {-1., 2.}],
+           StripOnInput->False], {0., 3.}],
          "DynamicName",
-         BoxID -> "VertexID$16"],
+         BoxID -> "VertexID$12"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
-              RowBox[{"\"s\"", ",", "0.25`"}], "}"}], ",", 
+              RowBox[{"\"s\"", ",", "0.3333333333333333`"}], "}"}], ",", 
             RowBox[{"{", 
-              RowBox[{"3", ",", "14"}], "}"}]}], "}"}]],
-       Annotation[#, {{"s", 0.25}, {3, 14}}, "Tooltip"]& ],
+              RowBox[{"3", ",", "10"}], "}"}]}], "}"}]],
+       Annotation[#, {{"s", 0.3333333333333333}, {3, 10}}, "Tooltip"]& ],
       "DynamicName",
-      BoxID -> "VertexLabelID$16"], 
+      BoxID -> "VertexLabelID$12"], 
      TagBox[
       TagBox[
        TooltipBox[
         TagBox[InsetBox[
           FrameBox[
            RowBox[{"{", 
-            RowBox[{"\<\"e\"\>", ",", "0.25`"}], "}"}],
+            RowBox[{"\<\"b\"\>", ",", "0.3333333333333333`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {0., 2.}],
+           StripOnInput->False], {1., 3.}],
          "DynamicName",
-         BoxID -> "VertexID$17"],
+         BoxID -> "VertexID$13"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
-              RowBox[{"\"e\"", ",", "0.25`"}], "}"}], ",", 
+              RowBox[{"\"b\"", ",", "0.3333333333333333`"}], "}"}], ",", 
             RowBox[{"{", 
-              RowBox[{"3", ",", "15"}], "}"}]}], "}"}]],
-       Annotation[#, {{"e", 0.25}, {3, 15}}, "Tooltip"]& ],
+              RowBox[{"3", ",", "11"}], "}"}]}], "}"}]],
+       Annotation[#, {{"b", 0.3333333333333333}, {3, 11}}, "Tooltip"]& ],
       "DynamicName",
-      BoxID -> "VertexLabelID$17"], 
-     TagBox[
-      TagBox[
-       TooltipBox[
-        TagBox[InsetBox[
-          FrameBox[
-           RowBox[{"{", 
-            RowBox[{"\<\"b\"\>", ",", "0.25`"}], "}"}],
-           Background->RGBColor[1, 1, 0.8],
-           FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {1., 2.}],
-         "DynamicName",
-         BoxID -> "VertexID$18"],
-        RowBox[{"{", 
-          RowBox[{
-            RowBox[{"{", 
-              RowBox[{"\"b\"", ",", "0.25`"}], "}"}], ",", 
-            RowBox[{"{", 
-              RowBox[{"3", ",", "16"}], "}"}]}], "}"}]],
-       Annotation[#, {{"b", 0.25}, {3, 16}}, "Tooltip"]& ],
-      "DynamicName",
-      BoxID -> "VertexLabelID$18"], 
-     TagBox[
-      TagBox[
-       TooltipBox[
-        TagBox[InsetBox[
-          FrameBox[
-           RowBox[{"{", 
-            RowBox[{"\<\"ss\"\>", ",", "1.`"}], "}"}],
-           Background->RGBColor[1, 1, 0.8],
-           FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {0., 1.}],
-         "DynamicName",
-         BoxID -> "VertexID$19"],
-        RowBox[{"{", 
-          RowBox[{
-            RowBox[{"{", 
-              RowBox[{"\"ss\"", ",", "1.`"}], "}"}], ",", 
-            RowBox[{"{", 
-              RowBox[{"4", ",", "17"}], "}"}]}], "}"}]],
-       Annotation[#, {{"ss", 1.}, {4, 17}}, "Tooltip"]& ],
-      "DynamicName",
-      BoxID -> "VertexLabelID$19"], 
+      BoxID -> "VertexLabelID$13"], 
      TagBox[
       TagBox[
        TooltipBox[
@@ -3920,36 +3801,44 @@ Cell[BoxData[
             RowBox[{"\<\"s\"\>", ",", "1.`"}], "}"}],
            Background->RGBColor[1, 1, 0.8],
            FrameStyle->RGBColor[0.94, 0.85, 0.36],
-           StripOnInput->False], {1., 1.}],
+           StripOnInput->False], {1., 2.}],
          "DynamicName",
-         BoxID -> "VertexID$20"],
+         BoxID -> "VertexID$14"],
         RowBox[{"{", 
           RowBox[{
             RowBox[{"{", 
               RowBox[{"\"s\"", ",", "1.`"}], "}"}], ",", 
             RowBox[{"{", 
-              RowBox[{"4", ",", "18"}], "}"}]}], "}"}]],
-       Annotation[#, {{"s", 1.}, {4, 18}}, "Tooltip"]& ],
+              RowBox[{"4", ",", "12"}], "}"}]}], "}"}]],
+       Annotation[#, {{"s", 1.}, {4, 12}}, "Tooltip"]& ],
       "DynamicName",
-      BoxID -> "VertexLabelID$20"]}}],
+      BoxID -> "VertexLabelID$14"]}}],
   FormatType->TraditionalForm,
   FrameTicks->None]], "Output",
  TaggingRules->{},
  CellChangeTimes->{{3.891027371979389*^9, 3.891027413596978*^9}, 
    3.8910285168540373`*^9, 3.891028567438175*^9, 3.891028655335141*^9, 
-   3.89102908540145*^9},
- CellLabel->"Out[53]=",
- CellID->1987568734,ExpressionUUID->"eb77f26e-277e-4744-90d7-94cd6f610fc7"]
+   3.89102908540145*^9, 3.893084654602462*^9},
+ CellLabel->"Out[115]=",
+ CellID->1454135328,ExpressionUUID->"051090df-5707-415c-a475-adc227d0c13a"]
+}, Open  ]]
 }, Open  ]],
 
+Cell[CellGroupData[{
+
+Cell["Scope", "Subsection",
+ TaggingRules->{},
+ CellID->964056545,ExpressionUUID->"d5645518-47b3-4cf7-a189-a612548d4135"],
+
 Cell["\<\
-Given the trie above and the string \"ca\" here we find which letters the \
-string is most like to finish with:\
+Classification: given the trie above and the string \"ca\" find which letters \
+the string is most like to finish with:\
 \>", "Text",
  TaggingRules->{},
  CellChangeTimes->{{3.8910285892686043`*^9, 3.8910285939012547`*^9}, {
   3.891028668310236*^9, 3.891028679978549*^9}, {3.891028734867435*^9, 
-  3.8910288354652777`*^9}, {3.89102909453619*^9, 3.89102909459123*^9}},
+  3.8910288354652777`*^9}, {3.89102909453619*^9, 3.89102909459123*^9}, {
+  3.8930845768332367`*^9, 3.8930845980108624`*^9}},
  CellID->854082789,ExpressionUUID->"2ad56c13-a6a0-4d84-9c99-6b88839ee75c"],
 
 Cell[CellGroupData[{
@@ -3963,27 +3852,61 @@ Cell[BoxData[
  CellChangeTimes->{{3.891028681971374*^9, 3.8910287055279503`*^9}, {
   3.891028840732943*^9, 3.891028843375416*^9}, {3.8910290643497047`*^9, 
   3.8910290904193363`*^9}},
- CellLabel->"In[54]:=",
+ CellLabel->"In[116]:=",
  CellID->1834665913,ExpressionUUID->"82f462a3-8c59-48dd-8137-acf2fe86fe57"],
 
 Cell[BoxData[
  RowBox[{"\[LeftAssociation]", 
   RowBox[{
-   RowBox[{"\<\"s\"\>", "\[Rule]", "0.75`"}], ",", 
-   RowBox[{"\<\"r\"\>", "\[Rule]", "0.25`"}]}], 
+   RowBox[{"\<\"s\"\>", "\[Rule]", "0.6666666666666666`"}], ",", 
+   RowBox[{"\<\"r\"\>", "\[Rule]", "0.33333333333333337`"}]}], 
   "\[RightAssociation]"}]], "Output",
  TaggingRules->{},
  CellChangeTimes->{{3.891028697556117*^9, 3.891028705994606*^9}, {
-  3.8910288414672127`*^9, 3.891028843734097*^9}, {3.891029066360083*^9, 
-  3.891029090798396*^9}},
- CellLabel->"Out[54]=",
- CellID->107325683,ExpressionUUID->"d28f9181-23e2-4478-8a3e-de38f0687319"]
-}, Open  ]]
+   3.8910288414672127`*^9, 3.891028843734097*^9}, {3.891029066360083*^9, 
+   3.891029090798396*^9}, 3.8930846594322033`*^9},
+ CellLabel->"Out[116]=",
+ CellID->61461673,ExpressionUUID->"d0175914-d356-4f5a-a93b-1d9d5090dbe5"]
 }, Open  ]],
 
-Cell["Scope", "Subsection",
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ InterpretationBox[Cell[
+  "\t", "ExampleDelimiter",ExpressionUUID->
+   "d6d63bba-5a71-4e6b-913a-d1d345fac49f"],
+  $Line = 0; Null]], "ExampleDelimiter",
  TaggingRules->{},
- CellID->964056545,ExpressionUUID->"d5645518-47b3-4cf7-a189-a612548d4135"]
+ CellID->664293411,ExpressionUUID->"82699a77-7a3a-45dc-b7ee-253262d7c339"],
+
+Cell["Random choice:", "Text",
+ TaggingRules->{},
+ CellChangeTimes->{{3.893084621993781*^9, 3.89308462276624*^9}},
+ CellID->11877924,ExpressionUUID->"06659ceb-c181-4b4b-b3c2-85f4619300f7"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"StringJoin", "@*", "Rest"}], "/@", 
+  RowBox[{"TrieRandomChoice", "[", 
+   RowBox[{"ptr", ",", "3"}], "]"}]}]], "Input",
+ TaggingRules->{},
+ CellChangeTimes->{{3.893084627934937*^9, 3.893084650387371*^9}},
+ CellLabel->"In[117]:=",
+ CellID->1269223218,ExpressionUUID->"c4f4bb2b-d26c-4feb-b0f1-affb8436bb9a"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"cars\"\>", ",", "\<\"warden\"\>", ",", "\<\"car\"\>"}], 
+  "}"}]], "Output",
+ TaggingRules->{},
+ CellChangeTimes->{{3.893084651029973*^9, 3.8930846614453497`*^9}},
+ CellLabel->"Out[117]=",
+ CellID->493514880,ExpressionUUID->"1eef7578-739f-45d9-b16b-7484acb4d1b1"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -4143,6 +4066,7 @@ Cell[BoxData[
                EvaluationCell[], {TaggingRules, "RadioButtonValue"}]], {
              "MIT"}], "\" \"", 
             TemplateBox[{"\"MIT License\"", "\"\[ThinSpace]\"", 
+              
               TemplateBox[{
                "\"\[RightGuillemet]\"", 
                 "https://resources.wolframcloud.com/PacletRepository/licenses/\
@@ -4639,7 +4563,7 @@ repository that are related to this paclet.", "MoreInfoText"], Background ->
  CellTags->{"Related Resource Objects", "TemplateCellGroup"},
  CellID->280622473,ExpressionUUID->"4c2274c4-b7fc-441e-a03d-95e1c85a0344"],
 
-Cell["Resource Name (resources from any Wolfram repository)", "Item",
+Cell["AntonAntonov/JavaTriesWithFrequencies", "Item",
  TaggingRules->{},
  CellEventActions->{Inherited, {"KeyDown", "\t"} :> Replace[SelectionMove[
        SelectedNotebook[], After, Cell]; NotebookFind[
@@ -4647,8 +4571,20 @@ Cell["Resource Name (resources from any Wolfram repository)", "Item",
        WrapAround -> True], Blank[NotebookSelection] :> SelectionMove[
        SelectedNotebook[], All, CellContents, AutoScroll -> True]], 
    PassEventsDown -> False, PassEventsUp -> False},
+ CellChangeTimes->{{3.893085388678986*^9, 3.893085406572678*^9}},
  CellTags->{"DefaultContent", "TabNext"},
- CellID->694609509,ExpressionUUID->"418de976-af32-4346-9435-b15df772ffbb"]
+ CellID->694609509,ExpressionUUID->"418de976-af32-4346-9435-b15df772ffbb"],
+
+Cell["AntonAntonov/MosaicPlot", "Item",
+ TaggingRules->{},
+ CellEventActions->{Inherited, {"KeyDown", "\t"} :> Replace[SelectionMove[
+       SelectedNotebook[], After, Cell]; NotebookFind[
+       SelectedNotebook[], "TabNext", Next, CellTags, AutoScroll -> True, 
+       WrapAround -> True], Blank[NotebookSelection] :> SelectionMove[
+       SelectedNotebook[], All, CellContents, AutoScroll -> True]], 
+   PassEventsDown -> False, PassEventsUp -> False},
+ CellChangeTimes->{{3.893085388678986*^9, 3.893085413873839*^9}},
+ CellID->1103057322,ExpressionUUID->"ef30418b-01a8-42f4-bff3-ff0659e2b396"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -4780,6 +4716,19 @@ to the paclet.", "MoreInfoText"], Background -> GrayLevel[0.95], FrameMargins ->
  CellTags->{"Links", "TemplateCellGroup"},
  CellID->179193585,ExpressionUUID->"8609ac63-f751-483a-8326-71ee3dc1b184"],
 
+Cell[TextData[ButtonBox["MathematicaForPrediction/TriesWithFrequencies.m at \
+master \[CenterDot] antononcube/MathematicaForPrediction \[CenterDot] GitHub",
+ 
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://github.com/antononcube/MathematicaForPrediction/blob/master/\
+TriesWithFrequencies.m"], None},
+ ButtonNote->
+  "https://github.com/antononcube/MathematicaForPrediction/blob/master/\
+TriesWithFrequencies.m"]], "Item",
+ TaggingRules->{},
+ CellID->1826300349,ExpressionUUID->"b167d508-5b0c-40b0-9fce-a9f986f04b2e"],
+
 Cell[TextData[ButtonBox["GitHub - antononcube/Java-TriesWithFrequencies: Java \
 class/package for Tries (Prefix trees) with frequencies.",
  BaseStyle->"Hyperlink",
@@ -4799,7 +4748,15 @@ trees) with frequencies",
  ButtonNote->
   "https://github.com/antononcube/Raku-ML-TriesWithFrequencies"]], "Item",
  TaggingRules->{},
- CellID->922684036,ExpressionUUID->"53d400cd-6ed4-41fd-bc3e-6e99d24d2428"]
+ CellID->922684036,ExpressionUUID->"53d400cd-6ed4-41fd-bc3e-6e99d24d2428"],
+
+Cell[TextData[ButtonBox["TriesWithFrequencies \[CenterDot] PyPI",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://pypi.org/project/TriesWithFrequencies/"], None},
+ ButtonNote->"https://pypi.org/project/TriesWithFrequencies/"]], "Item",
+ TaggingRules->{},
+ CellID->1050339156,ExpressionUUID->"177a4728-79e6-47c8-8e15-ae62d8a3baf6"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -6128,7 +6085,7 @@ Cell["Additional information about limitations, issues, etc.", "Text",
 }, Open  ]]
 },
 WindowSize->{1386, 1245},
-WindowMargins->{{Automatic, 866}, {Automatic, 12}},
+WindowMargins->{{Automatic, 828}, {Automatic, 0}},
 WindowTitle->"TriesWithFrequencies | Definition Notebook",
 DockedCells->{
   Cell[
@@ -6165,8 +6122,8 @@ DockedCells->{
                     DateString[
                     TimeZoneConvert[
                     DateObject[
-                    3.891083515156`16.342645541418893*^9, TimeZone -> 0]], {
-                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
+                    3.893085869024244`16.342868972131164*^9, TimeZone -> 
+                    0]], {"MonthName", " ", "DayShort", ", ", "Year", " ", 
                     "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
                     StandardForm], SingleEvaluation -> True, Evaluator -> 
                    "System"], FontSlant -> Italic, FontColor -> 
@@ -6260,7 +6217,7 @@ stripeText["Your paclet resource is being published"]]& ], "\"\""}},
                     StyleBox[
                     "&", "Program", FontWeight -> Medium, 
                     ShowStringCharacters -> True, StripOnInput -> False], 
-                    "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L978,C98) \
+                    "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L984,C98) \
 \\\\\\\"\\\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
 Inherited]], Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", \
 False]]], Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
@@ -6271,26 +6228,26 @@ False]]], Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Suggestion", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "45cddea5-7023-462f-a0d2-e700d46457d8", 1650627510, 
+                    "fe654f6a-4b3d-497a-afd6-b88eb3bb07b7", 1650627510, 
                     "CodeInspectionFileIssue/SuspiciousRuleFunction", <|
-                    "AdditionalSources" -> {{{978, 50}, {978, 52}}}, 
+                    "AdditionalSources" -> {{{984, 50}, {984, 52}}}, 
                     "AdditionalDescriptions" -> {
                     "The precedence of ``&`` is surprisingly low.", 
                     "``Rule`` is inside ``Function``."}, "File" -> 
                     "/Volumes/Macintosh \
 HD/Users/antonov/WL-TriesWithFrequencies-paclet/Kernel/TriesWithFrequencies.\
-wl", "Editor" -> Automatic, "SourceLineStart" -> 978, "SourceColumnStart" -> 
-                    98, "SourceLineEnd" -> 978, "SourceColumnEnd" -> 99, 
+wl", "Editor" -> Automatic, "SourceLineStart" -> 984, "SourceColumnStart" -> 
+                    98, "SourceLineEnd" -> 984, "SourceColumnEnd" -> 99, 
                     "Message" -> 
-                    "Suspicious use of ``&``.\!\(\*StyleBox[\"\\\" (L978,C98) \
+                    "Suspicious use of ``&``.\!\(\*StyleBox[\"\\\" (L984,C98) \
 \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
 Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", False]]], \
 Rule[StripOnInput, False]]\)", "SourceInformation" -> 
                     CodeInspector`InspectionObject[
                     "SuspiciousRuleFunction", "Suspicious use of ``&``.", 
                     "Warning", <|
-                    CodeParser`Source -> {{978, 98}, {978, 99}}, 
-                    "AdditionalSources" -> {{{978, 50}, {978, 52}}}, 
+                    CodeParser`Source -> {{984, 98}, {984, 99}}, 
+                    "AdditionalSources" -> {{{984, 50}, {984, 52}}}, 
                     ConfidenceLevel -> 0.75, 
                     "AdditionalDescriptions" -> {
                     "The precedence of ``&`` is surprisingly low.", 
@@ -6303,57 +6260,57 @@ Rule[StripOnInput, False]]\)", "SourceInformation" ->
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 25}, {978, 26}}|>], 
+                    CodeParser`Source -> {{984, 25}, {984, 26}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 26}, {978, 27}}|>], 
+                    CodeParser`Source -> {{984, 26}, {984, 27}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "k", <|CodeParser`Source -> {{978, 27}, {978, 
+                    Symbol, "k", <|CodeParser`Source -> {{984, 27}, {984, 
                     28}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 28}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 28}, {984,
                      29}}|>], 
                     CodeParser`LeafNode[Symbol, "v", <|
-                    CodeParser`Source -> {{978, 30}, {978, 31}}|>]}, <|
-                    CodeParser`Source -> {{978, 27}, {978, 31}}|>], 
+                    CodeParser`Source -> {{984, 30}, {984, 31}}|>]}, <|
+                    CodeParser`Source -> {{984, 27}, {984, 31}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 31}, {978, 32}}|>]}, <|
-                    CodeParser`Source -> {{978, 26}, {978, 32}}|>], 
+                    CodeParser`Source -> {{984, 31}, {984, 32}}|>]}, <|
+                    CodeParser`Source -> {{984, 26}, {984, 32}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 32}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 32}, {984,
                      33}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 34}, {978, 35}}|>], 
+                    CodeParser`Source -> {{984, 34}, {984, 35}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 35}, {984, 
                     40}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 40}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 40}, {984,
                      41}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "order", <|CodeParser`Source -> {{978, 42}, {978, 
-                    47}}|>]}, <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "order", <|CodeParser`Source -> {{984, 42}, {984, 
+                    47}}|>]}, <|CodeParser`Source -> {{984, 35}, {984, 
                     47}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 47}, {978, 48}}|>]}, <|
-                    CodeParser`Source -> {{978, 34}, {978, 48}}|>]}, <|
-                    CodeParser`Source -> {{978, 26}, {978, 48}}|>], 
+                    CodeParser`Source -> {{984, 47}, {984, 48}}|>]}, <|
+                    CodeParser`Source -> {{984, 34}, {984, 48}}|>]}, <|
+                    CodeParser`Source -> {{984, 26}, {984, 48}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 48}, {978, 49}}|>]}, <|
-                    CodeParser`Source -> {{978, 25}, {978, 49}}|>], 
+                    CodeParser`Source -> {{984, 48}, {984, 49}}|>]}, <|
+                    CodeParser`Source -> {{984, 25}, {984, 49}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`LeafNode[
                     Token`MinusGreater, "->", <|
-                    CodeParser`Source -> {{978, 50}, {978, 52}}|>], 
+                    CodeParser`Source -> {{984, 50}, {984, 52}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`GroupNode[CodeParser`GroupParen, {
                     CodeParser`LeafNode[Token`OpenParen, "(", <||>], 
@@ -6361,94 +6318,94 @@ Rule[StripOnInput, False]]\)", "SourceInformation" ->
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 53}, {978, 54}}|>], 
+                    CodeParser`Source -> {{984, 53}, {984, 54}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 54}, {
-                    978, 55}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 54}, {
+                    984, 55}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 55}, {984, 
                     56}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 56}, {978, 
-                    57}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 56}, {984, 
+                    57}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     57}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 57}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 57}, {984,
                      58}}|>], 
                     CodeParser`CallNode[
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 59}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 59}, {984, 
                     60}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "2", <|CodeParser`Source -> {{978, 60}, {978, 
-                    61}}|>]}, <|CodeParser`Source -> {{978, 59}, {978, 
+                    Integer, "2", <|CodeParser`Source -> {{984, 60}, {984, 
+                    61}}|>]}, <|CodeParser`Source -> {{984, 59}, {984, 
                     61}}|>], 
                     CodeParser`GroupNode[CodeParser`GroupSquare, {
                     CodeParser`LeafNode[
-                    Token`OpenSquare, "[", <|CodeParser`Source -> {{978, 
-                    61}, {978, 62}}|>], 
+                    Token`OpenSquare, "[", <|CodeParser`Source -> {{984, 
+                    61}, {984, 62}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "$TrieValue", <|CodeParser`Source -> {{978, 62}, {
-                    978, 72}}|>], 
+                    Symbol, "$TrieValue", <|CodeParser`Source -> {{984, 62}, {
+                    984, 72}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseSquare, "]", <|CodeParser`Source -> {{978, 
-                    72}, {978, 73}}|>]}, <|CodeParser`Source -> {{978, 61}, {
-                    978, 73}}|>], <|CodeParser`Source -> {{978, 59}, {978, 
-                    73}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`CloseSquare, "]", <|CodeParser`Source -> {{984, 
+                    72}, {984, 73}}|>]}, <|CodeParser`Source -> {{984, 61}, {
+                    984, 73}}|>], <|CodeParser`Source -> {{984, 59}, {984, 
+                    73}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     73}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    73}, {978, 74}}|>]}, <|CodeParser`Source -> {{978, 54}, {
-                    978, 74}}|>], 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    73}, {984, 74}}|>]}, <|CodeParser`Source -> {{984, 54}, {
+                    984, 74}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 74}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 74}, {984,
                      75}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 76}, {
-                    978, 77}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 76}, {
+                    984, 77}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`InfixNode[Plus, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 77}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 77}, {984, 
                     82}}|>], 
                     CodeParser`LeafNode[
-                    Token`Plus, "+", <|CodeParser`Source -> {{978, 83}, {978, 
+                    Token`Plus, "+", <|CodeParser`Source -> {{984, 83}, {984, 
                     84}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 85}, {978, 
-                    86}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 85}, {984, 
+                    86}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     86}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 86}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 86}, {984,
                      87}}|>], 
                     CodeParser`PostfixNode[Increment, {
                     CodeParser`LeafNode[
-                    Symbol, "ORDER", <|CodeParser`Source -> {{978, 88}, {978, 
+                    Symbol, "ORDER", <|CodeParser`Source -> {{984, 88}, {984, 
                     93}}|>], 
                     CodeParser`LeafNode[
-                    Token`PlusPlus, "++", <|CodeParser`Source -> {{978, 93}, {
-                    978, 95}}|>]}, <|CodeParser`Source -> {{978, 88}, {978, 
-                    95}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Token`PlusPlus, "++", <|CodeParser`Source -> {{984, 93}, {
+                    984, 95}}|>]}, <|CodeParser`Source -> {{984, 88}, {984, 
+                    95}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     95}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    95}, {978, 96}}|>]}, <|CodeParser`Source -> {{978, 76}, {
-                    978, 96}}|>]}, <|CodeParser`Source -> {{978, 54}, {978, 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    95}, {984, 96}}|>]}, <|CodeParser`Source -> {{984, 76}, {
+                    984, 96}}|>]}, <|CodeParser`Source -> {{984, 54}, {984, 
                     96}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 96}, {978, 97}}|>]}, <|
-                    CodeParser`Source -> {{978, 53}, {978, 97}}|>], 
+                    CodeParser`Source -> {{984, 96}, {984, 97}}|>]}, <|
+                    CodeParser`Source -> {{984, 53}, {984, 97}}|>], 
                     CodeParser`LeafNode[Token`Amp, "&", <||>]}, <||>], 
                     CodeParser`LeafNode[
                     Token`CloseParen, ")", <||>]}, <||>]}, <||>], 
-                    CodeParser`Source -> {{978, 25}, {978, 99}}|>], 
+                    CodeParser`Source -> {{984, 25}, {984, 99}}|>], 
                     CodeParser`CodeAction[
                     "Replace with ``({{k, v}, {level, order}} -> {{#1, \
 #2[$TrieValue]}, {level + 1, ORDER\n    ++}})&``", CodeParser`ReplaceNode, <|
@@ -6459,154 +6416,154 @@ Rule[StripOnInput, False]]\)", "SourceInformation" ->
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 25}, {978, 26}}|>], 
+                    CodeParser`Source -> {{984, 25}, {984, 26}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 26}, {
-                    978, 27}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 26}, {
+                    984, 27}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "k", <|CodeParser`Source -> {{978, 27}, {978, 
+                    Symbol, "k", <|CodeParser`Source -> {{984, 27}, {984, 
                     28}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 28}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 28}, {984,
                      29}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "v", <|CodeParser`Source -> {{978, 30}, {978, 
-                    31}}|>]}, <|CodeParser`Source -> {{978, 27}, {978, 
+                    Symbol, "v", <|CodeParser`Source -> {{984, 30}, {984, 
+                    31}}|>]}, <|CodeParser`Source -> {{984, 27}, {984, 
                     31}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    31}, {978, 32}}|>]}, <|CodeParser`Source -> {{978, 26}, {
-                    978, 32}}|>], 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    31}, {984, 32}}|>]}, <|CodeParser`Source -> {{984, 26}, {
+                    984, 32}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 32}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 32}, {984,
                      33}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 34}, {
-                    978, 35}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 34}, {
+                    984, 35}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 35}, {984, 
                     40}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 40}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 40}, {984,
                      41}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "order", <|CodeParser`Source -> {{978, 42}, {978, 
-                    47}}|>]}, <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "order", <|CodeParser`Source -> {{984, 42}, {984, 
+                    47}}|>]}, <|CodeParser`Source -> {{984, 35}, {984, 
                     47}}|>], 
                     CodeParser`LeafNode[Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 47}, {978, 48}}|>]}, <|
-                    CodeParser`Source -> {{978, 34}, {978, 48}}|>]}, <|
-                    CodeParser`Source -> {{978, 26}, {978, 48}}|>], 
+                    CodeParser`Source -> {{984, 47}, {984, 48}}|>]}, <|
+                    CodeParser`Source -> {{984, 34}, {984, 48}}|>]}, <|
+                    CodeParser`Source -> {{984, 26}, {984, 48}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 48}, {978, 49}}|>]}, <|
-                    CodeParser`Source -> {{978, 25}, {978, 49}}|>], 
+                    CodeParser`Source -> {{984, 48}, {984, 49}}|>]}, <|
+                    CodeParser`Source -> {{984, 25}, {984, 49}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`LeafNode[
                     Token`MinusGreater, "->", <|
-                    CodeParser`Source -> {{978, 50}, {978, 52}}|>], 
+                    CodeParser`Source -> {{984, 50}, {984, 52}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 53}, {978, 54}}|>], 
+                    CodeParser`Source -> {{984, 53}, {984, 54}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 54}, {
-                    978, 55}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 54}, {
+                    984, 55}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 55}, {984, 
                     56}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 56}, {978, 
-                    57}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 56}, {984, 
+                    57}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     57}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 57}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 57}, {984,
                      58}}|>], 
                     CodeParser`CallNode[
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 59}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 59}, {984, 
                     60}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "2", <|CodeParser`Source -> {{978, 60}, {978, 
-                    61}}|>]}, <|CodeParser`Source -> {{978, 59}, {978, 
+                    Integer, "2", <|CodeParser`Source -> {{984, 60}, {984, 
+                    61}}|>]}, <|CodeParser`Source -> {{984, 59}, {984, 
                     61}}|>], 
                     CodeParser`GroupNode[CodeParser`GroupSquare, {
                     CodeParser`LeafNode[
-                    Token`OpenSquare, "[", <|CodeParser`Source -> {{978, 
-                    61}, {978, 62}}|>], 
+                    Token`OpenSquare, "[", <|CodeParser`Source -> {{984, 
+                    61}, {984, 62}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "$TrieValue", <|CodeParser`Source -> {{978, 62}, {
-                    978, 72}}|>], 
+                    Symbol, "$TrieValue", <|CodeParser`Source -> {{984, 62}, {
+                    984, 72}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseSquare, "]", <|CodeParser`Source -> {{978, 
-                    72}, {978, 73}}|>]}, <|CodeParser`Source -> {{978, 61}, {
-                    978, 73}}|>], <|CodeParser`Source -> {{978, 59}, {978, 
-                    73}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`CloseSquare, "]", <|CodeParser`Source -> {{984, 
+                    72}, {984, 73}}|>]}, <|CodeParser`Source -> {{984, 61}, {
+                    984, 73}}|>], <|CodeParser`Source -> {{984, 59}, {984, 
+                    73}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     73}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    73}, {978, 74}}|>]}, <|CodeParser`Source -> {{978, 54}, {
-                    978, 74}}|>], 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    73}, {984, 74}}|>]}, <|CodeParser`Source -> {{984, 54}, {
+                    984, 74}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 74}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 74}, {984,
                      75}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 76}, {
-                    978, 77}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 76}, {
+                    984, 77}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`InfixNode[Plus, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 77}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 77}, {984, 
                     82}}|>], 
                     CodeParser`LeafNode[
-                    Token`Plus, "+", <|CodeParser`Source -> {{978, 83}, {978, 
+                    Token`Plus, "+", <|CodeParser`Source -> {{984, 83}, {984, 
                     84}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 85}, {978, 
-                    86}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 85}, {984, 
+                    86}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     86}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 86}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 86}, {984,
                      87}}|>], 
                     CodeParser`PostfixNode[Increment, {
                     CodeParser`LeafNode[
-                    Symbol, "ORDER", <|CodeParser`Source -> {{978, 88}, {978, 
+                    Symbol, "ORDER", <|CodeParser`Source -> {{984, 88}, {984, 
                     93}}|>], 
                     CodeParser`LeafNode[
-                    Token`PlusPlus, "++", <|CodeParser`Source -> {{978, 93}, {
-                    978, 95}}|>]}, <|CodeParser`Source -> {{978, 88}, {978, 
-                    95}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Token`PlusPlus, "++", <|CodeParser`Source -> {{984, 93}, {
+                    984, 95}}|>]}, <|CodeParser`Source -> {{984, 88}, {984, 
+                    95}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     95}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    95}, {978, 96}}|>]}, <|CodeParser`Source -> {{978, 76}, {
-                    978, 96}}|>]}, <|CodeParser`Source -> {{978, 54}, {978, 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    95}, {984, 96}}|>]}, <|CodeParser`Source -> {{984, 76}, {
+                    984, 96}}|>]}, <|CodeParser`Source -> {{984, 54}, {984, 
                     96}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 96}, {978, 97}}|>]}, <|
-                    CodeParser`Source -> {{978, 53}, {978, 97}}|>]}, <|
-                    CodeParser`Source -> {{978, 25}, {978, 97}}|>], 
+                    CodeParser`Source -> {{984, 96}, {984, 97}}|>]}, <|
+                    CodeParser`Source -> {{984, 53}, {984, 97}}|>]}, <|
+                    CodeParser`Source -> {{984, 25}, {984, 97}}|>], 
                     CodeParser`LeafNode[Token`CloseParen, ")", <||>]}, <||>], 
                     
                     CodeParser`LeafNode[Token`Amp, "&", <||>]}, <||>], 
-                    CodeParser`Source -> {{978, 25}, {978, 99}}|>]}, "File" -> 
+                    CodeParser`Source -> {{984, 25}, {984, 99}}|>]}, "File" -> 
                     "/Volumes/Macintosh \
 HD/Users/antonov/WL-TriesWithFrequencies-paclet/Kernel/TriesWithFrequencies.\
-wl", "Editor" -> Automatic|>], "Hash" -> 2237349937119971386, "Position" -> 
-                    "\!\(\*StyleBox[\"\\\" (L978,C98) \\\"\", \
+wl", "Editor" -> Automatic|>], "Hash" -> 6032441920684333258, "Position" -> 
+                    "\!\(\*StyleBox[\"\\\" (L984,C98) \\\"\", \
 Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
 Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", False]]], \
 Rule[StripOnInput, False]]\)"|>]; 
@@ -6679,8 +6636,8 @@ Rule[StripOnInput, False]]\)"|>];
                     Not[
                     FreeQ[
                     DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                    "8c135a29-35ae-4b34-adc1-f9c68cd9ef91"]]]]]], Appearance -> 
-                   None, BoxID -> "8c135a29-35ae-4b34-adc1-f9c68cd9ef91", 
+                    "c4af8242-1e44-4a0e-9007-3377e1cd2241"]]]]]], Appearance -> 
+                   None, BoxID -> "c4af8242-1e44-4a0e-9007-3377e1cd2241", 
                    Evaluator -> Automatic, Method -> "Preemptive"], 
                   MouseAppearanceTag["LinkHand"]]}}, 
                GridBoxAlignment -> {
@@ -6708,8 +6665,8 @@ Rule[StripOnInput, False]]\)"|>];
                     DateString[
                     TimeZoneConvert[
                     DateObject[
-                    3.891083515156`16.342645541418893*^9, TimeZone -> 0]], {
-                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
+                    3.893085869024244`16.342868972131164*^9, TimeZone -> 
+                    0]], {"MonthName", " ", "DayShort", ", ", "Year", " ", 
                     "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
                     StandardForm], SingleEvaluation -> True, Evaluator -> 
                    "System"], FontSlant -> Italic, FontColor -> 
@@ -6803,7 +6760,7 @@ stripeText["Your paclet resource is being published"]]& ], "\"\""}},
                     StyleBox[
                     "&", "Program", FontWeight -> Medium, 
                     ShowStringCharacters -> True, StripOnInput -> False], 
-                    "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L978,C98) \
+                    "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L984,C98) \
 \\\\\\\"\\\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
 Inherited]], Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", \
 False]]], Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
@@ -6814,26 +6771,26 @@ False]]], Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Suggestion", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "45cddea5-7023-462f-a0d2-e700d46457d8", 1650627510, 
+                    "fe654f6a-4b3d-497a-afd6-b88eb3bb07b7", 1650627510, 
                     "CodeInspectionFileIssue/SuspiciousRuleFunction", <|
-                    "AdditionalSources" -> {{{978, 50}, {978, 52}}}, 
+                    "AdditionalSources" -> {{{984, 50}, {984, 52}}}, 
                     "AdditionalDescriptions" -> {
                     "The precedence of ``&`` is surprisingly low.", 
                     "``Rule`` is inside ``Function``."}, "File" -> 
                     "/Volumes/Macintosh \
 HD/Users/antonov/WL-TriesWithFrequencies-paclet/Kernel/TriesWithFrequencies.\
-wl", "Editor" -> Automatic, "SourceLineStart" -> 978, "SourceColumnStart" -> 
-                    98, "SourceLineEnd" -> 978, "SourceColumnEnd" -> 99, 
+wl", "Editor" -> Automatic, "SourceLineStart" -> 984, "SourceColumnStart" -> 
+                    98, "SourceLineEnd" -> 984, "SourceColumnEnd" -> 99, 
                     "Message" -> 
-                    "Suspicious use of ``&``.\!\(\*StyleBox[\"\\\" (L978,C98) \
+                    "Suspicious use of ``&``.\!\(\*StyleBox[\"\\\" (L984,C98) \
 \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
 Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", False]]], \
 Rule[StripOnInput, False]]\)", "SourceInformation" -> 
                     CodeInspector`InspectionObject[
                     "SuspiciousRuleFunction", "Suspicious use of ``&``.", 
                     "Warning", <|
-                    CodeParser`Source -> {{978, 98}, {978, 99}}, 
-                    "AdditionalSources" -> {{{978, 50}, {978, 52}}}, 
+                    CodeParser`Source -> {{984, 98}, {984, 99}}, 
+                    "AdditionalSources" -> {{{984, 50}, {984, 52}}}, 
                     ConfidenceLevel -> 0.75, 
                     "AdditionalDescriptions" -> {
                     "The precedence of ``&`` is surprisingly low.", 
@@ -6846,58 +6803,58 @@ Rule[StripOnInput, False]]\)", "SourceInformation" ->
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 25}, {978, 26}}|>], 
+                    CodeParser`Source -> {{984, 25}, {984, 26}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 26}, {978, 27}}|>], 
+                    CodeParser`Source -> {{984, 26}, {984, 27}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "k", <|CodeParser`Source -> {{978, 27}, {978, 
+                    Symbol, "k", <|CodeParser`Source -> {{984, 27}, {984, 
                     28}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 28}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 28}, {984,
                      29}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "v", <|CodeParser`Source -> {{978, 30}, {978, 
-                    31}}|>]}, <|CodeParser`Source -> {{978, 27}, {978, 
+                    Symbol, "v", <|CodeParser`Source -> {{984, 30}, {984, 
+                    31}}|>]}, <|CodeParser`Source -> {{984, 27}, {984, 
                     31}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 31}, {978, 32}}|>]}, <|
-                    CodeParser`Source -> {{978, 26}, {978, 32}}|>], 
+                    CodeParser`Source -> {{984, 31}, {984, 32}}|>]}, <|
+                    CodeParser`Source -> {{984, 26}, {984, 32}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 32}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 32}, {984,
                      33}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 34}, {978, 35}}|>], 
+                    CodeParser`Source -> {{984, 34}, {984, 35}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 35}, {984, 
                     40}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 40}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 40}, {984,
                      41}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "order", <|CodeParser`Source -> {{978, 42}, {978, 
-                    47}}|>]}, <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "order", <|CodeParser`Source -> {{984, 42}, {984, 
+                    47}}|>]}, <|CodeParser`Source -> {{984, 35}, {984, 
                     47}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 47}, {978, 48}}|>]}, <|
-                    CodeParser`Source -> {{978, 34}, {978, 48}}|>]}, <|
-                    CodeParser`Source -> {{978, 26}, {978, 48}}|>], 
+                    CodeParser`Source -> {{984, 47}, {984, 48}}|>]}, <|
+                    CodeParser`Source -> {{984, 34}, {984, 48}}|>]}, <|
+                    CodeParser`Source -> {{984, 26}, {984, 48}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 48}, {978, 49}}|>]}, <|
-                    CodeParser`Source -> {{978, 25}, {978, 49}}|>], 
+                    CodeParser`Source -> {{984, 48}, {984, 49}}|>]}, <|
+                    CodeParser`Source -> {{984, 25}, {984, 49}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`LeafNode[
                     Token`MinusGreater, "->", <|
-                    CodeParser`Source -> {{978, 50}, {978, 52}}|>], 
+                    CodeParser`Source -> {{984, 50}, {984, 52}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`GroupNode[CodeParser`GroupParen, {
                     CodeParser`LeafNode[Token`OpenParen, "(", <||>], 
@@ -6905,93 +6862,93 @@ Rule[StripOnInput, False]]\)", "SourceInformation" ->
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 53}, {978, 54}}|>], 
+                    CodeParser`Source -> {{984, 53}, {984, 54}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 54}, {
-                    978, 55}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 54}, {
+                    984, 55}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 55}, {984, 
                     56}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 56}, {978, 
-                    57}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 56}, {984, 
+                    57}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     57}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 57}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 57}, {984,
                      58}}|>], 
                     CodeParser`CallNode[
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 59}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 59}, {984, 
                     60}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "2", <|CodeParser`Source -> {{978, 60}, {978, 
-                    61}}|>]}, <|CodeParser`Source -> {{978, 59}, {978, 
+                    Integer, "2", <|CodeParser`Source -> {{984, 60}, {984, 
+                    61}}|>]}, <|CodeParser`Source -> {{984, 59}, {984, 
                     61}}|>], 
                     CodeParser`GroupNode[CodeParser`GroupSquare, {
                     CodeParser`LeafNode[
-                    Token`OpenSquare, "[", <|CodeParser`Source -> {{978, 
-                    61}, {978, 62}}|>], 
+                    Token`OpenSquare, "[", <|CodeParser`Source -> {{984, 
+                    61}, {984, 62}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "$TrieValue", <|CodeParser`Source -> {{978, 62}, {
-                    978, 72}}|>], 
+                    Symbol, "$TrieValue", <|CodeParser`Source -> {{984, 62}, {
+                    984, 72}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseSquare, "]", <|CodeParser`Source -> {{978, 
-                    72}, {978, 73}}|>]}, <|CodeParser`Source -> {{978, 61}, {
-                    978, 73}}|>], <|CodeParser`Source -> {{978, 59}, {978, 
-                    73}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`CloseSquare, "]", <|CodeParser`Source -> {{984, 
+                    72}, {984, 73}}|>]}, <|CodeParser`Source -> {{984, 61}, {
+                    984, 73}}|>], <|CodeParser`Source -> {{984, 59}, {984, 
+                    73}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     73}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    73}, {978, 74}}|>]}, <|CodeParser`Source -> {{978, 54}, {
-                    978, 74}}|>], 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    73}, {984, 74}}|>]}, <|CodeParser`Source -> {{984, 54}, {
+                    984, 74}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 74}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 74}, {984,
                      75}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 76}, {
-                    978, 77}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 76}, {
+                    984, 77}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`InfixNode[Plus, {
                     CodeParser`LeafNode[Symbol, "level", <|
-                    CodeParser`Source -> {{978, 77}, {978, 82}}|>], 
+                    CodeParser`Source -> {{984, 77}, {984, 82}}|>], 
                     CodeParser`LeafNode[
-                    Token`Plus, "+", <|CodeParser`Source -> {{978, 83}, {978, 
+                    Token`Plus, "+", <|CodeParser`Source -> {{984, 83}, {984, 
                     84}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 85}, {978, 
-                    86}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 85}, {984, 
+                    86}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     86}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 86}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 86}, {984,
                      87}}|>], 
                     CodeParser`PostfixNode[Increment, {
                     CodeParser`LeafNode[
-                    Symbol, "ORDER", <|CodeParser`Source -> {{978, 88}, {978, 
+                    Symbol, "ORDER", <|CodeParser`Source -> {{984, 88}, {984, 
                     93}}|>], 
                     CodeParser`LeafNode[
-                    Token`PlusPlus, "++", <|CodeParser`Source -> {{978, 93}, {
-                    978, 95}}|>]}, <|CodeParser`Source -> {{978, 88}, {978, 
-                    95}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Token`PlusPlus, "++", <|CodeParser`Source -> {{984, 93}, {
+                    984, 95}}|>]}, <|CodeParser`Source -> {{984, 88}, {984, 
+                    95}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     95}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    95}, {978, 96}}|>]}, <|CodeParser`Source -> {{978, 76}, {
-                    978, 96}}|>]}, <|CodeParser`Source -> {{978, 54}, {978, 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    95}, {984, 96}}|>]}, <|CodeParser`Source -> {{984, 76}, {
+                    984, 96}}|>]}, <|CodeParser`Source -> {{984, 54}, {984, 
                     96}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 96}, {978, 97}}|>]}, <|
-                    CodeParser`Source -> {{978, 53}, {978, 97}}|>], 
+                    CodeParser`Source -> {{984, 96}, {984, 97}}|>]}, <|
+                    CodeParser`Source -> {{984, 53}, {984, 97}}|>], 
                     CodeParser`LeafNode[Token`Amp, "&", <||>]}, <||>], 
                     CodeParser`LeafNode[
                     Token`CloseParen, ")", <||>]}, <||>]}, <||>], 
-                    CodeParser`Source -> {{978, 25}, {978, 99}}|>], 
+                    CodeParser`Source -> {{984, 25}, {984, 99}}|>], 
                     CodeParser`CodeAction[
                     "Replace with ``({{k, v}, {level, order}} -> {{#1, \
 #2[$TrieValue]}, {level + 1, ORDER\n    ++}})&``", CodeParser`ReplaceNode, <|
@@ -7002,155 +6959,155 @@ Rule[StripOnInput, False]]\)", "SourceInformation" ->
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 25}, {978, 26}}|>], 
+                    CodeParser`Source -> {{984, 25}, {984, 26}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 26}, {
-                    978, 27}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 26}, {
+                    984, 27}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "k", <|CodeParser`Source -> {{978, 27}, {978, 
+                    Symbol, "k", <|CodeParser`Source -> {{984, 27}, {984, 
                     28}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 28}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 28}, {984,
                      29}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "v", <|CodeParser`Source -> {{978, 30}, {978, 
-                    31}}|>]}, <|CodeParser`Source -> {{978, 27}, {978, 
+                    Symbol, "v", <|CodeParser`Source -> {{984, 30}, {984, 
+                    31}}|>]}, <|CodeParser`Source -> {{984, 27}, {984, 
                     31}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    31}, {978, 32}}|>]}, <|CodeParser`Source -> {{978, 26}, {
-                    978, 32}}|>], 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    31}, {984, 32}}|>]}, <|CodeParser`Source -> {{984, 26}, {
+                    984, 32}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 32}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 32}, {984,
                      33}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 34}, {
-                    978, 35}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 34}, {
+                    984, 35}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 35}, {984, 
                     40}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 40}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 40}, {984,
                      41}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "order", <|CodeParser`Source -> {{978, 42}, {978, 
-                    47}}|>]}, <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "order", <|CodeParser`Source -> {{984, 42}, {984, 
+                    47}}|>]}, <|CodeParser`Source -> {{984, 35}, {984, 
                     47}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    47}, {978, 48}}|>]}, <|CodeParser`Source -> {{978, 34}, {
-                    978, 48}}|>]}, <|CodeParser`Source -> {{978, 26}, {978, 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    47}, {984, 48}}|>]}, <|CodeParser`Source -> {{984, 34}, {
+                    984, 48}}|>]}, <|CodeParser`Source -> {{984, 26}, {984, 
                     48}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 48}, {978, 49}}|>]}, <|
-                    CodeParser`Source -> {{978, 25}, {978, 49}}|>], 
+                    CodeParser`Source -> {{984, 48}, {984, 49}}|>]}, <|
+                    CodeParser`Source -> {{984, 25}, {984, 49}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`LeafNode[
                     Token`MinusGreater, "->", <|
-                    CodeParser`Source -> {{978, 50}, {978, 52}}|>], 
+                    CodeParser`Source -> {{984, 50}, {984, 52}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 53}, {978, 54}}|>], 
+                    CodeParser`Source -> {{984, 53}, {984, 54}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 54}, {
-                    978, 55}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 54}, {
+                    984, 55}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 55}, {984, 
                     56}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 56}, {978, 
-                    57}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 56}, {984, 
+                    57}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     57}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 57}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 57}, {984,
                      58}}|>], 
                     CodeParser`CallNode[
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 59}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 59}, {984, 
                     60}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "2", <|CodeParser`Source -> {{978, 60}, {978, 
-                    61}}|>]}, <|CodeParser`Source -> {{978, 59}, {978, 
+                    Integer, "2", <|CodeParser`Source -> {{984, 60}, {984, 
+                    61}}|>]}, <|CodeParser`Source -> {{984, 59}, {984, 
                     61}}|>], 
                     CodeParser`GroupNode[CodeParser`GroupSquare, {
                     CodeParser`LeafNode[
-                    Token`OpenSquare, "[", <|CodeParser`Source -> {{978, 
-                    61}, {978, 62}}|>], 
+                    Token`OpenSquare, "[", <|CodeParser`Source -> {{984, 
+                    61}, {984, 62}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "$TrieValue", <|CodeParser`Source -> {{978, 62}, {
-                    978, 72}}|>], 
+                    Symbol, "$TrieValue", <|CodeParser`Source -> {{984, 62}, {
+                    984, 72}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseSquare, "]", <|CodeParser`Source -> {{978, 
-                    72}, {978, 73}}|>]}, <|CodeParser`Source -> {{978, 61}, {
-                    978, 73}}|>], <|CodeParser`Source -> {{978, 59}, {978, 
-                    73}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`CloseSquare, "]", <|CodeParser`Source -> {{984, 
+                    72}, {984, 73}}|>]}, <|CodeParser`Source -> {{984, 61}, {
+                    984, 73}}|>], <|CodeParser`Source -> {{984, 59}, {984, 
+                    73}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     73}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    73}, {978, 74}}|>]}, <|CodeParser`Source -> {{978, 54}, {
-                    978, 74}}|>], 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    73}, {984, 74}}|>]}, <|CodeParser`Source -> {{984, 54}, {
+                    984, 74}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 74}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 74}, {984,
                      75}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
-                    Token`OpenCurly, "{", <|CodeParser`Source -> {{978, 76}, {
-                    978, 77}}|>], 
+                    Token`OpenCurly, "{", <|CodeParser`Source -> {{984, 76}, {
+                    984, 77}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`InfixNode[Plus, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 77}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 77}, {984, 
                     82}}|>], 
                     CodeParser`LeafNode[
-                    Token`Plus, "+", <|CodeParser`Source -> {{978, 83}, {978, 
+                    Token`Plus, "+", <|CodeParser`Source -> {{984, 83}, {984, 
                     84}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 85}, {978, 
-                    86}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 85}, {984, 
+                    86}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     86}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 86}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 86}, {984,
                      87}}|>], 
                     CodeParser`PostfixNode[Increment, {
                     CodeParser`LeafNode[
-                    Symbol, "ORDER", <|CodeParser`Source -> {{978, 88}, {978, 
+                    Symbol, "ORDER", <|CodeParser`Source -> {{984, 88}, {984, 
                     93}}|>], 
                     CodeParser`LeafNode[
-                    Token`PlusPlus, "++", <|CodeParser`Source -> {{978, 93}, {
-                    978, 95}}|>]}, <|CodeParser`Source -> {{978, 88}, {978, 
-                    95}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Token`PlusPlus, "++", <|CodeParser`Source -> {{984, 93}, {
+                    984, 95}}|>]}, <|CodeParser`Source -> {{984, 88}, {984, 
+                    95}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     95}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseCurly, "}", <|CodeParser`Source -> {{978, 
-                    95}, {978, 96}}|>]}, <|CodeParser`Source -> {{978, 76}, {
-                    978, 96}}|>]}, <|CodeParser`Source -> {{978, 54}, {978, 
+                    Token`CloseCurly, "}", <|CodeParser`Source -> {{984, 
+                    95}, {984, 96}}|>]}, <|CodeParser`Source -> {{984, 76}, {
+                    984, 96}}|>]}, <|CodeParser`Source -> {{984, 54}, {984, 
                     96}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 96}, {978, 97}}|>]}, <|
-                    CodeParser`Source -> {{978, 53}, {978, 97}}|>]}, <|
-                    CodeParser`Source -> {{978, 25}, {978, 97}}|>], 
+                    CodeParser`Source -> {{984, 96}, {984, 97}}|>]}, <|
+                    CodeParser`Source -> {{984, 53}, {984, 97}}|>]}, <|
+                    CodeParser`Source -> {{984, 25}, {984, 97}}|>], 
                     CodeParser`LeafNode[Token`CloseParen, ")", <||>]}, <||>], 
                     
                     CodeParser`LeafNode[Token`Amp, "&", <||>]}, <||>], 
-                    CodeParser`Source -> {{978, 25}, {978, 99}}|>]}, "File" -> 
+                    CodeParser`Source -> {{984, 25}, {984, 99}}|>]}, "File" -> 
                     "/Volumes/Macintosh \
 HD/Users/antonov/WL-TriesWithFrequencies-paclet/Kernel/TriesWithFrequencies.\
-wl", "Editor" -> Automatic|>], "Hash" -> 2237349937119971386, "Position" -> 
-                    "\!\(\*StyleBox[\"\\\" (L978,C98) \\\"\", \
+wl", "Editor" -> Automatic|>], "Hash" -> 6032441920684333258, "Position" -> 
+                    "\!\(\*StyleBox[\"\\\" (L984,C98) \\\"\", \
 Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
 Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", False]]], \
 Rule[StripOnInput, False]]\)"|>]; 
@@ -7223,8 +7180,8 @@ Rule[StripOnInput, False]]\)"|>];
                     Not[
                     FreeQ[
                     DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                    "8c135a29-35ae-4b34-adc1-f9c68cd9ef91"]]]]]], Appearance -> 
-                   None, BoxID -> "8c135a29-35ae-4b34-adc1-f9c68cd9ef91", 
+                    "c4af8242-1e44-4a0e-9007-3377e1cd2241"]]]]]], Appearance -> 
+                   None, BoxID -> "c4af8242-1e44-4a0e-9007-3377e1cd2241", 
                    Evaluator -> Automatic, Method -> "Preemptive"], 
                   MouseAppearanceTag["LinkHand"]]}}, 
                GridBoxAlignment -> {
@@ -7332,12 +7289,12 @@ Rule[StripOnInput, False]]\)"|>];
                     TagBox[
                     TemplateBox[{"\"Version\"", "\": \""}, "RowDefault"], 
                     "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"1.0.3\"", "SummaryItem"]}]}, {
+                    TagBox["\"1.0.4\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     TemplateBox[{"\"SubmissionID\"", "\": \""}, "RowDefault"],
                      "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"7269\"", "SummaryItem"]}]}, {
+                    TagBox["\"9712\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     
@@ -7374,31 +7331,31 @@ Rule[StripOnInput, False]]\)"|>];
                     Dynamic[Typeset`open$$], ImageSize -> Automatic]}, 
                     "SummaryPanel"], DynamicModuleValues :> {}], "]"}], 
                     Short[#, 0.75]& ], 
-                    "OEM6eJztWF9vG0UQj+OzHTuuG9ogBE/\
-WKQLx4CopKSm8BOcSt5Ga1vK6BYSQur6bs1fc7Z1295Ka78ATrzzwreAZPgAfAWbvn51zKgUniD74X\
-u60Mzvz29mZ+\
-Y3OLcmNAb04Ct6AdCvyvVOuQIQCFFUs4LjslmR1EGgF15DGMyaVuy6rQzrGFVIjkW2DlGSTRL5PxfQ\
-pUIeUvnPLcut4yqnP7LPAiTzQ29fz7WUCSraG0xAkqNdBCHxnR1Z61JOQSbczKfgjcAjCgZ0dUhmg/\
-SnqbA7BDz1cTBAmhsvybp9yIOCBrQJx2acxQBiZk4qsPRHMubw5e9e0ES2qyvpRpFQWhkZ6osTuR72\
-TvmDnCOF1TwRcnXBnADKIhA2k3js5YsqnoSRbaWBw0ws8JwgNXkM5Bo9OwZGtxEUv4raO+\
-NuiYwxFBPkxGt0wBCoox+AbzwM+k9SPqASiph64a4Wz10/OqRdRjIysdyMV+\
-HjFdi6tnoGaBA5p9AVgbBU7nzPa9diY+8BVFlBZtUBnSvaeqZ76dAyE/QgYsVoasXzXJb+\
-VIfNBirX4aX6Vr+DGphUJgYZfIWAgd3oYX4uGT4GNJxpCpR9coM+\
-S3O6OZOBFCub15Z0zOubMZXacw9bfeN0bPUH9+FLLciMOj07fivnHLz+baLB+\
-zATmjD4zygdPjqzAC4T4IH5+OxT34+fPQ/FN/Px+\
-aH2Yn7hJlGDhC37Kw0jNsjgRtiyEjsD61HEYHxfFjRhWjKdwj81YckbFmHE5n8b6ba1Za8Xvt2Opzp\
-I9s1PK31ltl4u1XSyydCtpmVma6ww1iWF+2TZJA80cg0sjT5H305Q/VeB3OQ+SVkLKf/\
-3061zr2DD71PZAmXnv0Po3QVY1X748PV4e0cfmyHb2HsHI6Twe7bqd/QMbv3YfP+zY+\
-wd036Z7ewf7jwp4s8hvpSFeqJRMg9QwpyKfy7kjJkVhPAN3pmYg7kWdKwq2oZewi4CCYlrdTcFohHE\
-pXhvLop/rA8q8kpDaOtev7dVa//fO5vqcUehz22QSXOhC4GNrgk3S1n2qGKLN5xESi8AC+\
-2FB1sLGjiWLHYFJ3UDKs1uOTU+5om+Soi1u/Y/ToDwMwnc3Abb0nXiMQz+\
-QLCWz5IJLVinXSpjsf2Fgywvk0gxcbN0rCl5R8BIUXFtR8C1T8A3w1s1XWEAIZHnINXPvwe6Dz24PU\
-8sk0chnUsO6SSyr5sHDz7+4PVxbZlKhloDY3/LIYga4xTs8Qx7Gjrc8oE/\
-Nb7Gc2mFcDW2RFlebyfYIsGW0w2jkMTkB5/\
-aiWTFRvjzi7bwFzJJlNZmuJtPVZLrEZDqbkopD3xUz1Zx50kzrTY+rXnGsvH/pB1gyFmUDISl9j+\
-r537N7i8XcrXZIc57mSTUh6w4xNMeSneswZYfUUoIjlZimOhrzjF2IoTmiQ1qXW3syo+\
-PmtLOST67ZH2cZkPyEoyNvIQM2Thx2peBesudrpibpyCYTIP8AtDT3zg=="}, 
-                    "ClickToCopyTemplate"]}, {
+                    "OEM6eJztWM1u20YQtixKsmRFcRIXRXsSCKNFDwrswIHTXlyZthIDcSJol\
+aRFUSArcigtQi6J3aUd9R166rWHvlV7bh+\
+gj9DO8k8y5QCu7KI9iBcSO7Mz387OzDegW5IbA3pxFLwH6VbkvVOuQIQCFFUs4LjslmR1EGgF15DGc\
+yaVuy6rQzrGFVIjkW2DlGSTRL5PxfQZUIeUvnPLcut4yqnP7LPAiTzQ29fz7WUCSraG0xAkqLdBCHx\
+nR1Z61JOQSbczKfgjcAjCgZ0dUhmg/\
+SnqbA7BDz1cTBAmhsvybp9yIOCBrQJx2acxQBiZk4qsPRXMubw5e9e0ES2qyvpRpFQWhkZ6osTup72\
+TvmDnCOFtTwRcnXBnADKIhA2k3js5YsqnoSRbaWBw00s8JwgNXkM5Bo9OwZGtxEUv4raO+\
+IeiYwxFBPkxGt0wBCoox+AbLwI+k9SPqASiph64a4Wz10/OqRdRjIysdyMV+\
+HjFdi6tnoGaBA5p9AVgbBU7nzPa9diY+8BVFlBZtUBnSvaeqZ76dAyE/QAYsVoasXzXJb+\
+VIfNBirX4aX6dr+DGphUJgYZfI2Agd3oYX4uGz4CNJxpCpR9coM+\
+S3O6OZOBFCub15Z0zOubMZXacw9ZfeN0bPUH9+FLLciMOj07fivn7zz+ZaLB+\
+zATmjD4zygdPj6zAC4T4OH5+PRQP4uePQ/FN/\
+Px2aH2Sn7hJlGDhS37Kw0jNsjgRtiyEjsD61HEYHxfFjRhWjKdwj81YckbFmHE5n8b6ba1Za8XvD2O\
+pzpI9s1PK31ltl4u1XSyydCtpmVma6ww1iWF+1TZJA80cg0sjT5GP0pQ/VeB3OQ+SVkLKf/\
+74y1zr2DD71PZAmXnv0Po3QVY1X706PV4e0WfmyHb2HsPI6TwZ7bqd/QMbv3afPOrY+\
+wd036Z7ewf7jwt4s8hvpSFeqJRMg9QwpyKfy7kjJkVhPAd3pmYg7kWdKwq2oZewi4CCYlrdTcFohHE\
+pXhvLop/rA8q8kpDaOtev7dVa/+\
+fO5vqcUehz22QSXOhC4GNrgk3S1n2qGKLNFxESi8ACe7cga2Fjx5LFjsCkbiDl2S3Hpqdc0fdJ0Ra3\
+/stpUB4G4f83Abb0nXiMQz+\
+QLCWz5IJLVinXSpjsP2Fgywvk0gxcbN0rCl5R8BIUXFtR8C1T8A3w1s3XWEAIZHnINXPv4e7D/\
+dvD1DJJNPKZ1LBuEsuq+eXB3qPbw7VlJhVqCYj9LY8sZoBbvMMz5GHseMsD+\
+sL8FsupHcbV0BZpcbWZbI8AW0Y7jEYekxNwbi+aFRPlyyPezlvALFlWk+\
+lqMl1NpktMprMpqTj0XTFTzZknzbTe9LjqFcfKB5d+gCVjUTYQktL3qJ7/Pbu/\
+WMzdaoc052meVBOy7hBDcyzZuQ5TdkgtJThSiWmqozHP2IUYmiM6pHW5tSczOm5OOyv5/\
+Jr9cZYByU84OvIWMmDjxGFXCu4ne94wNUlHNpkA+RuXX/fG"}, "ClickToCopyTemplate"]}, {
                     "\"\[FilledVerySmallSquare]\"", "\"Resource object:\"", 
                     TemplateBox[{
                     TagBox[
@@ -7616,8 +7573,9 @@ svthfJj/YHyY/2F8WPjAzIOFH0p8AQA7u3Ea
                     ImageSize -> 12, BaselinePosition -> Scaled[0.1], 
                     ImageSize -> {Automatic, 35}}], 
                     StyleBox[
-                    "\"AntonAntonov/TriesWithFrequencies\"", FontFamily -> 
-                    Dynamic[
+                    
+                    RowBox[{"\"AntonAntonov/\"", "\[Ellipsis]", 
+                    "\"thFrequencies\""}], FontFamily -> Dynamic[
                     CurrentValue["PanelFontFamily"]], FontSize -> 
                     0.8 Inherited, ShowStringCharacters -> False, 
                     StripOnInput -> False]}}, 
@@ -7637,60 +7595,84 @@ svthfJj/YHyY/2F8WPjAzIOFH0p8AQA7u3Ea
                     DefaultBaseStyle -> {Background -> None}, 
                     BaselinePosition -> Baseline, Method -> "Preemptive"], 
                     "]"}], Short[#, 0.75]& ], 
-                    "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\
-Qrkbz76DyFDOWjspc8Di6uGGK//+\
-112Fu17fwV79umvmOjt8vFKR96jphPrUDKiNBsQcueavZ1j5Lt+\
-LutkJVa6RGl4CGlpVXYkVsrDSEw5sy3VrLFfkYaxMw9zK+\
-ZB5gA3G1FoeU6uLiRKCcjTJU5f1QIDKfomdZ2qpw3eWZHPrHny62BFE88n5nt4PnGRsJE4cq1PAJ+\
-yEmbrDJjqVFXNzEcCz4VvT+\
-TlnRlAa0KwXOhUDU1lH9pocz9SIN6sGIkwgiNpqEqEFYBH8AnOCSyMwCv88gUBSAnD0PHa5mZkZfRw\
-U0ZLxslaS0ktLTdJWqo5IkpJaEShrmHF0FA2L9sck+SV7TAm+9fEWuL+tg6J/\
-NeyptUvtXWIbZK4cmVHW3szqO3L6hAlFXV4ILoeVBPXdMO4mE7mk6nUBTYflQmCs6sYx9JEYtGOJfK\
-mYYWqiNTu54vSt0TohlgicUEnL15tVOAJUOyLa8gnIcjkfKIq+\
-1KiqujppNmgxX0GXVbfCh3BuDJGOAjx3b4MWWZf3L7OcxrAInepFaKz0ppcAlSSAy6dUnEuPWw9ySe\
-M58W8xA+zZebIrlbTpm5IHAud22iJBYbBtG3Jq2OZrad4QFwroIe0OoSL1hoqm78yW1La6zicG0BCy\
-9CDRB0KJUQkSjSp7HRRzcZ0KgbRBhENz+pbHCFjjQiCkoLpKefJrzKbOqsa4hjTPWvo/\
-zkMPP2afusGwFK6JuT0gRF6gJmVB3OB3fZLkpUdbkq5JJTU8DWXS5zXeqleUqqXlOolpXpJqV5Sqpe\
-U6iWlesm1rVCpXlKql5TqJaV6SaleUqqXlOolpXpJqV5SqpcsXL2kqlQvKdVLbrV6yVUNqBW+\
-ArMZDcl4PtF4hbi0jiLgvodE3T0CqBBoSAqgTojkwVO2IEDrhG7REH0pRVXUIcr2wzEjx9YT6DSmAd\
-RFxLK5uBwkNFQYN8BVlLX1QrcmpWlmV5zXgl1p/0DhBmydm7JBr8G5DcImpAwpqpj0RWESinge+\
-7BOaG3xderI19rSukq4tqVdTxYHG74BXSb/zEv1yutTXSPcBxGe1wFQKaxsamm6NnWLhIGBdd3F6/\
-qCUEwAzAWlVG0tVVtL1darVlvzb7zOQuYcr6C26UGtteNoCTYZd5RKbyv4BZ75isuLnMC9jWh1/\
-Iqvs9IPvPS9Enz+qq+FRJIeIqCxmKPBD2q5JmoeqDDvGj+otM49UM5OMz+osb0NgchCv+P4wbL8/\
-bZeM9/ziR889MLq4HdkJpOZfTtqse35CzGLSfA0i7rSTGD7QbVpDvmuRr+\
-81IToIOt3kT1XnbStZVWr3CK1+tvFNZK/TW7/kl9sbZX8UG6T4i2xttXy6tX5uDZ/\
-2yjGkrPielGPrMzZscwcQ9cvRL4PkY2HzbL+/wC8mhMI"}, "ClickToCopyTemplate"]}}, 
+                    "OEM6eJztHGtsHMX5znc+v50HKVWB0uvGbUOLYydxcEAqd/bZZ1vN4/\
+A6vJKA9/bmfIv3di8ze7YvlZBbaCUKTdMChdISTFsQ5UcFSJUCBeyIVhSh0ooGmpYWHMIrSkmiikdA\
+tHRm9jW3d+fbOK4D0o0ib76db+\
+Z7zPfNfPt9u5f0otpBYbxbnQAoWY2WDSgagBkINEGTVAXfTnpRYFAlCEk/8m+\
+UkJasQoEhYQTf4ZsHAVKzUARb4tcBUeMb+\
+Gw6LcBcPxASvHdb0oeW9uQUIS2Jm9REVgZkliprFh8PNNQ8lMsABLRhNQOUlhZUHRVkBMzeFWYvSMd\
+BgsdcgZYWvnoQz5/DOA1DIJ2R8U2dUX1iH1oSExTAAxmzpMJ8mv5BzIZJpBrV9EEpkT/\
+YvNaQSUhXANV1ZzXN1Ea9IZE+7znR3hiUxjALw1GoKlqvkjB1wtdFe7slLS1kEL/\
+UUAwetAXLCSBhnrDSA2QhBxKoWScRzSoiUXwp7fiHYBZYYtR3ZTJAgIIiAuTfrCp2T123gACv5WSQ9\
+Dhkr+sdE+SsgDWD6rqymprGKy1avYFNQEupCb4+\
+BgHWrSaNMZN2ydKIkgaKZioUBSKAGIx5tVEH0sII4KVdAGusxtCYNSqPbvWQlAYIemhrDFt38MDGSB\
+ZCPPHlmGHAN0WxfiNCph9IIynCQnVMHcc0vWhFVxypclYDLD5q2iSMKFJSEqkpRz7Ga1pLVaKvXEMf\
+FDIpSUQEXGYoyYvqhvC9UQUgBL+54td9h3YlQpb5YF+\
+JCiKIqjBt3cOTDvZ1R1RZhXD6SdKOhWA7bbMh+\
+DnangkRLWzJCKKk5QxJT5Bpm6OSLIMEZnsMMB6231NV7fNUeTxe+1+\
+JewHnPf12E7nt9fkw5PjrAC2SK6sCVZSxKSmM/85W/eqiMANvv+eG68g1c+\
+uMQmGYS1M8btk4uSo7WxELH3z6yh1h53wWkeffvpQdtEcOieykHs9wiiVqwhZTxniLCDsfJlKjS+\
+KhlHfv/UVO52z/GLk+59mHdEmCVJKP9uxWwgz+eU/eOaoz9YqY13/kvS52fN78mOh5VZTITVT83f3/\
+MZBiOlJ/7y5y/fD68ym8+kc8hQPfOpRiYY/noRSL73k+3Zk337OH1lMm/\
+nsMGZJ3kOvm2w7kwRaTBnylb2o7C0/8pnU7O99Ew++2sfTufO1721h+JluuWEmuo4//\
+gcLDfZCjdOOvUTh4jodjlWLCj9x9LgtP3h7plNjxpn7M+U39mfRjh+8dZ/mb5R4eZ/k3YVM+\
+EzblN2FTP+Z8pv7y1su1nz/yMGmHQvDHt5P2egh++AFpR1z6+X6Pz+\
+vPc9z9K33eat1qJ3spYz94QVfsI29fTRX24QUJFg7vvm9rmMGffPSja8LO8a4FWkHbgRD8PG3/\
+DMHbbiXt8OkLNPnSwSQrkAmbDM/6b9zBCmTCpsB5410L9MFJ0t4KwZ/\
+9lLSjIXgNbcdOX6CplzZQU5s6eQ/dF2aj6yiDJ65+h5qy2T/5+35AV4Q/u79YPx3vWqCzaXsjBP/\
+yPGmvLqDJTR4LDxOGZv5+KEsFevAqulK/nLwZsfDSe5+gu7OJ/8BX1+8MO8e7Fmjv3aRhS/\
+ssbX9dSJM7/nKGFciETYanuPskViATNgXOG+9aoO20/\
+SsEH3uUtCMheD1tC2Bys8mP6QqEH396gjK87BbKYEt8Jz3SzP5VjedqVIAH3xgu1k/\
+HuxZoPW2vMwKtpe3VBVih29fRM3Z2p358xOJ79ZX5bTjBwp69/6abgok/U3/\
+JtWHneNcC6XvBSyHI03Y4ZHjVi6cvUHi8b4wVyIRNhh96pRuyApmwKXDeeNcCbaMNb26X0oYDz7t+\
+QtpCnEP3nqArED7rPrrL7dnwLvUlzw6vHpIZ/TP376C73Ozyg6PF+\
+un4RTU5ny0QkcZPpJkZ09U7ecdJyl37TTdS9e97d1ANM/17Igd2hp34Z5x7y/qDN9KTI7ZvO+\
+UylvgTz3qD54b+aNiJv6hBTVHum27WI5Ov30G5nfnuH/UD/ZYeKs0D336WwjN3PadHMiz+Ged+\
+Vjh0FeEmeHy1bilP/Zxy2d53kFpS8MCDFJ5AT9E1ycNf1NO9GPdT13dSXc4cPEK8d+r1jnUUfmjrD/\
+X9tumKzeR68B9P0JMvD//Mc/8eoFwOa7eS653NdSMUzrx/lO5Ft72zil77M9M69yx+\
+ssaR92joQhkgaoMkGxDxWrf9XRP4Wd/KOhmJlW5BHB2BalZJOBIr1VEopJ3Zlnp6c0gSR5EzD/\
+NJzIMUYa6Qo8hKC68pIogpYKZLnLpq5DUoZbYoA0omq5mdATuz5rPXwbAmM59o95j5xFpuM1bkJUGO\
+/4yRMBvQQLpLUVQ9H8n7jn9/ysZn/\
+lcklWcQ5FdyXYqmKvSPOtY2BCWArpC0VBSCnVmgiBjkMMNWboiv51aNrVndvnrNBRyzxFjpUbx6co7\
+H/MdVTbX6akmfoUZjzapIVpVwLMiRxkgTVrWSAlDSQMIatYJPqeNEd8pIJCVAQSR5NKdy6+\
+haEy8jqSm8BLmNYAzIxjl/KDT3KpidSw3VFOTvTAy+BtPIphVkKc+\
+44r8gaaP58coV4tSSZKMssQ5BzKgHyEADTl6WGLyQhWVNrzwrhdnKEvwUSWuaVHmyGSkjiDWSOaka/\
+vjnEO8nU1gZbsI+Y7hVHOfscmPtJLvr2toxfkwQsU7zSWGs3Y+\
+5oreE6wFIxGZCJndPdpAzs9IomFRhUISA4gUFJRFMC4qUycr6DTUZ1Ih3BVdlIEhKExgCAF0QHMfeF\
+kwy7lZcgMWw1SK28ck3VrdUI1WnToypFPjzybjboRo2Z9NxADcJcLSgrzmGx2oxCEQJkaPHZ68ynTq\
+naMIEpV0w9P9sBr4hNfPJNYCl5oYaU5FklIP0BfaykQutBZ2RGlZEVtG8a1jOWKtSxKoUsSpFrEoRq\
+1LEqhSxKkWsShFrfitUKWJViliVIlaliFUpYlWKWJUiVqWIVSliVYpYC1fEaqgUsSpFrDOdFq4UsT4\
+FRayyAjRy3wC5cRUm0Hy2CMc3L8b5wHsv5H3chRwf4MjOwPFNXMxmnoDsPoHBHkETgmlJwWZEwCEwo\
+VngMsw62Vp4kMEeTVLsqBq7OdTyBfa4knYZ16OKWeKuwiktmFNQcx8EXErTMuiStjZolCjQ6nFVTuK\
+zS5TVbGK1qKbbdAsbBBlSPlFhzsZti4uJNetBPNG6Id6ebO3oFPH/\
+2jesbRU7OoUOUVizprNjfRvHi4tAhW/sx54D8Z4zunVw43yUu4LbAqURCe/PwUG8T+\
+ENzL1DNHFr24NdGRhc2752HTe/pd2IFwdpwa2ZBP7PYpKu5bZuHehxT/HLnJsVmRcryzkaWCSCY/\
+jkO6UtqYaj5/M8qRq6nyfV0mq3PbAGxwQkJNRrOoUf8hlcIc4qFuYQnisiS9jbh82KYlydaGlBK+\
+fESUgo09KSNOqFX5p7PlpjxNi1KKDXG/\
+G4uk1qFgEVKwNzGqBc0xiFnHbOUApj1JphII64rJKZHZfop+\
+VbJPCv74JQHU8BIWEfqobc8AvfOXrZvvNfCOlxuDFNXkEOj4+pcm5EL7v68/\
+mIfGwQmrVqcxFPxFPYPV1kBMsjU+xbR9tT5G415Zxw1A12SQDS5xTny1hWYGCMPBxy9Lw1PUePHr/\
+9bfpUqVlzTjvnDM3RY1Czo8WiDz3240Ck2b4Zk1X8zKSM5AVqukrt1cPqTdL2RghH0tU0kuYD+\
+ubGN/RIgqyO6NXovMCWlwUFB6sxWZAUlyHvM7YQrkLySIN9zwz+\
+rKWzupoHyaMe7hsUElIWMW9b6I92Ou/FLd2KwCnmJgHiUwUVKMunz2mYatU8fa3wqftFM4H+\
+ZgheS9vxivNVnG8BnI+1tfNoezwE79lL2sshePJ90t48g97o0hfm657LI2o6Q/joncAPMwgxb+\
+W4PJGLuzX7owHFQgObM0rr/DlpjVEroIhfmxMRGiHNJgE/\
+oE0kGx1M5RvtCdNNPR5Hj8fDpvHyx9Jd5TtHQwXubzu/\
+iVKCro0xXXLWUmNtzpx0i0jjpDtdnu50KXmny8tbONZktbyey9N1bnBFpCmJESovTXkLKC1NeQsoLU\
+15CygqTf0WHMnKQo51pWrU0KVIacH4RQs7EVvOu8yDIOKNNDIp4+\
+X2a3e9MiAP6KjgLbslPSApZGWtJwv1tKs9vDDtSt9N9OefwVXonD6gpgH2V3EI00JJFaatXxY5g8G3\
+c7kLFsQykQKzPlHSWZjZyocItVQ4ndFm5twu8snEggUK86B5muFCfr0gJsBT2+\
+PL2vZihCPWiR7BAQAmHxMS5Fy3qeW9BHtW3mGoFy8KX1+132x15HBL1CmskKiBhkSY/\
+KuT95eNiwIDmiCz73qXeCphfWCB4iDk+\
+GkgjLp6zrXM0lDPRMEW6SavwLe4yeucSsjjNvtQZCWdi7zU2D1LY8zx6rOr95sDl2VBlqnG1Aypqqx\
+JGf4rfUALaikQlPOyRDS3nZJQ0MxUFrwKjmegUZ07XTXymqAkBJgwqqr5b4MPKJKG7VPaRR0abzBzR\
+KMu1hprr8nQinF+LPyy4lXIyvK8XLrk7lAkctcfNPX7dI8qvM8+\
+JFQxvopPWRup8DsBLwrwoiCDRKFPFyuuFUkCVj7CqXyEs0hm8Gn+CIeJvx3ftxQJP5jp+\
+UbD48iXOae00/DeHSRsyz9Wu2paeT953YD/Ytn3AzAmqZq4OzNb+UaTEhGPD+jVrla+\
+5nL9LOGrafWiFQchdj2Wjy10lbWVX25X2Daq+usfWA8+UjLrNKt04+\
+PjhfU5NX6dXZKju36bkJHaMNutfL0uTlSiEVhDhAwyfsOwt+\
+ykG9qBuG59Umy9eEPHxa0dQnJt64ZkR2drx0Ud8fiapNh+UXKdbdf67xAKcbnArmt7E1LRjuX6GLJ+\
+xqmC9K+9/gfMCO3O"}, "ClickToCopyTemplate"]}}, 
                     GridBoxAlignment -> {"Columns" -> {{Left}}}, AutoDelete -> 
                     False, GridBoxItemSize -> {
                     "Columns" -> {Automatic, Automatic, Fit}, 
@@ -7724,7 +7706,7 @@ bZeM9/ziR889MLq4HdkJpOZfTtqse35CzGLSfA0i7rSTGD7QbVpDvmuRr+\
              DateString[
               TimeZoneConvert[
                DateObject[
-               3.891083515156`16.342645541418893*^9, TimeZone -> 0]], {
+               3.893085869024244`16.342868972131164*^9, TimeZone -> 0]], {
               "MonthName", " ", "DayShort", ", ", "Year", " ", "Hour12Short", 
                ":", "Minute", " ", "AMPMLowerCase"}], SingleEvaluation -> 
              True, Evaluator -> "System"], FontSlant -> Italic, FontColor -> 
@@ -7793,7 +7775,7 @@ bZeM9/ziR889MLq4HdkJpOZfTtqse35CzGLSfA0i7rSTGD7QbVpDvmuRr+\
                    Style[
                     RawBoxes["&"], "Program", FontWeight -> Medium, 
                     ShowStringCharacters -> True], 
-                   ".\!\(\*StyleBox[\"\\\" (L978,C98) \\\"\", \
+                   ".\!\(\*StyleBox[\"\\\" (L984,C98) \\\"\", \
 Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
 Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", False]]], \
 Rule[StripOnInput, False]]\)"}]}] :> 
@@ -7804,26 +7786,26 @@ Rule[StripOnInput, False]]\)"}]}] :>
                 DefinitionNotebookClient`PackageScope`setHint[
                  "Suggestion", "Paclet", 
                   DefinitionNotebookClient`$CurrentNotebook, 
-                  "45cddea5-7023-462f-a0d2-e700d46457d8", 1650627510, 
+                  "fe654f6a-4b3d-497a-afd6-b88eb3bb07b7", 1650627510, 
                   "CodeInspectionFileIssue/SuspiciousRuleFunction", <|
-                  "AdditionalSources" -> {{{978, 50}, {978, 52}}}, 
+                  "AdditionalSources" -> {{{984, 50}, {984, 52}}}, 
                    "AdditionalDescriptions" -> {
                     "The precedence of ``&`` is surprisingly low.", 
                     "``Rule`` is inside ``Function``."}, "File" -> 
                    "/Volumes/Macintosh \
 HD/Users/antonov/WL-TriesWithFrequencies-paclet/Kernel/TriesWithFrequencies.\
-wl", "Editor" -> Automatic, "SourceLineStart" -> 978, "SourceColumnStart" -> 
-                   98, "SourceLineEnd" -> 978, "SourceColumnEnd" -> 99, 
+wl", "Editor" -> Automatic, "SourceLineStart" -> 984, "SourceColumnStart" -> 
+                   98, "SourceLineEnd" -> 984, "SourceColumnEnd" -> 99, 
                    "Message" -> 
-                   "Suspicious use of ``&``.\!\(\*StyleBox[\"\\\" (L978,C98) \
+                   "Suspicious use of ``&``.\!\(\*StyleBox[\"\\\" (L984,C98) \
 \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
 Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", False]]], \
 Rule[StripOnInput, False]]\)", "SourceInformation" -> 
                    CodeInspector`InspectionObject[
                     "SuspiciousRuleFunction", "Suspicious use of ``&``.", 
                     "Warning", <|
-                    CodeParser`Source -> {{978, 98}, {978, 99}}, 
-                    "AdditionalSources" -> {{{978, 50}, {978, 52}}}, 
+                    CodeParser`Source -> {{984, 98}, {984, 99}}, 
+                    "AdditionalSources" -> {{{984, 50}, {984, 52}}}, 
                     ConfidenceLevel -> 0.75, 
                     "AdditionalDescriptions" -> {
                     "The precedence of ``&`` is surprisingly low.", 
@@ -7836,58 +7818,58 @@ Rule[StripOnInput, False]]\)", "SourceInformation" ->
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 25}, {978, 26}}|>], 
+                    CodeParser`Source -> {{984, 25}, {984, 26}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 26}, {978, 27}}|>], 
+                    CodeParser`Source -> {{984, 26}, {984, 27}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "k", <|CodeParser`Source -> {{978, 27}, {978, 
+                    Symbol, "k", <|CodeParser`Source -> {{984, 27}, {984, 
                     28}}|>], 
                     CodeParser`LeafNode[
                     Token`Comma, ",", <|
-                    CodeParser`Source -> {{978, 28}, {978, 29}}|>], 
+                    CodeParser`Source -> {{984, 28}, {984, 29}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "v", <|CodeParser`Source -> {{978, 30}, {978, 
-                    31}}|>]}, <|CodeParser`Source -> {{978, 27}, {978, 
+                    Symbol, "v", <|CodeParser`Source -> {{984, 30}, {984, 
+                    31}}|>]}, <|CodeParser`Source -> {{984, 27}, {984, 
                     31}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 31}, {978, 32}}|>]}, <|
-                    CodeParser`Source -> {{978, 26}, {978, 32}}|>], 
+                    CodeParser`Source -> {{984, 31}, {984, 32}}|>]}, <|
+                    CodeParser`Source -> {{984, 26}, {984, 32}}|>], 
                     CodeParser`LeafNode[
                     Token`Comma, ",", <|
-                    CodeParser`Source -> {{978, 32}, {978, 33}}|>], 
+                    CodeParser`Source -> {{984, 32}, {984, 33}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 34}, {978, 35}}|>], 
+                    CodeParser`Source -> {{984, 34}, {984, 35}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 35}, {984, 
                     40}}|>], 
                     CodeParser`LeafNode[
                     Token`Comma, ",", <|
-                    CodeParser`Source -> {{978, 40}, {978, 41}}|>], 
+                    CodeParser`Source -> {{984, 40}, {984, 41}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "order", <|CodeParser`Source -> {{978, 42}, {978, 
-                    47}}|>]}, <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "order", <|CodeParser`Source -> {{984, 42}, {984, 
+                    47}}|>]}, <|CodeParser`Source -> {{984, 35}, {984, 
                     47}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 47}, {978, 48}}|>]}, <|
-                    CodeParser`Source -> {{978, 34}, {978, 48}}|>]}, <|
-                    CodeParser`Source -> {{978, 26}, {978, 48}}|>], 
+                    CodeParser`Source -> {{984, 47}, {984, 48}}|>]}, <|
+                    CodeParser`Source -> {{984, 34}, {984, 48}}|>]}, <|
+                    CodeParser`Source -> {{984, 26}, {984, 48}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 48}, {978, 49}}|>]}, <|
-                    CodeParser`Source -> {{978, 25}, {978, 49}}|>], 
+                    CodeParser`Source -> {{984, 48}, {984, 49}}|>]}, <|
+                    CodeParser`Source -> {{984, 25}, {984, 49}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`LeafNode[
                     Token`MinusGreater, "->", <|
-                    CodeParser`Source -> {{978, 50}, {978, 52}}|>], 
+                    CodeParser`Source -> {{984, 50}, {984, 52}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`GroupNode[CodeParser`GroupParen, {
                     CodeParser`LeafNode[Token`OpenParen, "(", <||>], 
@@ -7895,93 +7877,94 @@ Rule[StripOnInput, False]]\)", "SourceInformation" ->
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 53}, {978, 54}}|>], 
+                    CodeParser`Source -> {{984, 53}, {984, 54}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 54}, {978, 55}}|>], 
+                    CodeParser`Source -> {{984, 54}, {984, 55}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 55}, {984, 
                     56}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 56}, {978, 
-                    57}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 56}, {984, 
+                    57}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     57}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 57}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 57}, {984,
                      58}}|>], 
                     CodeParser`CallNode[
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 59}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 59}, {984, 
                     60}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "2", <|CodeParser`Source -> {{978, 60}, {978, 
-                    61}}|>]}, <|CodeParser`Source -> {{978, 59}, {978, 
+                    Integer, "2", <|CodeParser`Source -> {{984, 60}, {984, 
+                    61}}|>]}, <|CodeParser`Source -> {{984, 59}, {984, 
                     61}}|>], 
                     CodeParser`GroupNode[CodeParser`GroupSquare, {
                     CodeParser`LeafNode[
-                    Token`OpenSquare, "[", <|CodeParser`Source -> {{978, 
-                    61}, {978, 62}}|>], 
+                    Token`OpenSquare, "[", <|CodeParser`Source -> {{984, 
+                    61}, {984, 62}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "$TrieValue", <|CodeParser`Source -> {{978, 62}, {
-                    978, 72}}|>], 
+                    Symbol, "$TrieValue", <|CodeParser`Source -> {{984, 62}, {
+                    984, 72}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseSquare, "]", <|CodeParser`Source -> {{978, 
-                    72}, {978, 73}}|>]}, <|CodeParser`Source -> {{978, 61}, {
-                    978, 73}}|>], <|CodeParser`Source -> {{978, 59}, {978, 
-                    73}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`CloseSquare, "]", <|CodeParser`Source -> {{984, 
+                    72}, {984, 73}}|>]}, <|CodeParser`Source -> {{984, 61}, {
+                    984, 73}}|>], <|CodeParser`Source -> {{984, 59}, {984, 
+                    73}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     73}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 73}, {978, 74}}|>]}, <|
-                    CodeParser`Source -> {{978, 54}, {978, 74}}|>], 
+                    CodeParser`Source -> {{984, 73}, {984, 74}}|>]}, <|
+                    CodeParser`Source -> {{984, 54}, {984, 74}}|>], 
                     CodeParser`LeafNode[
                     Token`Comma, ",", <|
-                    CodeParser`Source -> {{978, 74}, {978, 75}}|>], 
+                    CodeParser`Source -> {{984, 74}, {984, 75}}|>], 
                     CodeParser`GroupNode[List, {
-                    CodeParser`LeafNode[Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 76}, {978, 77}}|>], 
+                    CodeParser`LeafNode[
+                    Token`OpenCurly, "{", <|
+                    CodeParser`Source -> {{984, 76}, {984, 77}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`InfixNode[Plus, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 77}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 77}, {984, 
                     82}}|>], 
                     CodeParser`LeafNode[
-                    Token`Plus, "+", <|CodeParser`Source -> {{978, 83}, {978, 
+                    Token`Plus, "+", <|CodeParser`Source -> {{984, 83}, {984, 
                     84}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 85}, {978, 
-                    86}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 85}, {984, 
+                    86}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     86}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 86}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 86}, {984,
                      87}}|>], 
                     CodeParser`PostfixNode[Increment, {
                     CodeParser`LeafNode[
-                    Symbol, "ORDER", <|CodeParser`Source -> {{978, 88}, {978, 
+                    Symbol, "ORDER", <|CodeParser`Source -> {{984, 88}, {984, 
                     93}}|>], 
                     CodeParser`LeafNode[
-                    Token`PlusPlus, "++", <|CodeParser`Source -> {{978, 93}, {
-                    978, 95}}|>]}, <|CodeParser`Source -> {{978, 88}, {978, 
-                    95}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Token`PlusPlus, "++", <|CodeParser`Source -> {{984, 93}, {
+                    984, 95}}|>]}, <|CodeParser`Source -> {{984, 88}, {984, 
+                    95}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     95}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 95}, {978, 96}}|>]}, <|
-                    CodeParser`Source -> {{978, 76}, {978, 96}}|>]}, <|
-                    CodeParser`Source -> {{978, 54}, {978, 96}}|>], 
+                    CodeParser`Source -> {{984, 95}, {984, 96}}|>]}, <|
+                    CodeParser`Source -> {{984, 76}, {984, 96}}|>]}, <|
+                    CodeParser`Source -> {{984, 54}, {984, 96}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 96}, {978, 97}}|>]}, <|
-                    CodeParser`Source -> {{978, 53}, {978, 97}}|>], 
+                    CodeParser`Source -> {{984, 96}, {984, 97}}|>]}, <|
+                    CodeParser`Source -> {{984, 53}, {984, 97}}|>], 
                     CodeParser`LeafNode[Token`Amp, "&", <||>]}, <||>], 
                     CodeParser`LeafNode[
                     Token`CloseParen, ")", <||>]}, <||>]}, <||>], 
-                    CodeParser`Source -> {{978, 25}, {978, 99}}|>], 
+                    CodeParser`Source -> {{984, 25}, {984, 99}}|>], 
                     CodeParser`CodeAction[
                     "Replace with ``({{k, v}, {level, order}} -> {{#1, \
 #2[$TrieValue]}, {level + 1, ORDER\n    ++}})&``", CodeParser`ReplaceNode, <|
@@ -7992,155 +7975,154 @@ Rule[StripOnInput, False]]\)", "SourceInformation" ->
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 25}, {978, 26}}|>], 
+                    CodeParser`Source -> {{984, 25}, {984, 26}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 26}, {978, 27}}|>], 
+                    CodeParser`Source -> {{984, 26}, {984, 27}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
+                    CodeParser`LeafNode[Symbol, "k", <|
+                    CodeParser`Source -> {{984, 27}, {984, 28}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "k", <|CodeParser`Source -> {{978, 27}, {978, 
-                    28}}|>], 
-                    CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 28}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 28}, {984,
                      29}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "v", <|CodeParser`Source -> {{978, 30}, {978, 
-                    31}}|>]}, <|CodeParser`Source -> {{978, 27}, {978, 
+                    Symbol, "v", <|CodeParser`Source -> {{984, 30}, {984, 
+                    31}}|>]}, <|CodeParser`Source -> {{984, 27}, {984, 
                     31}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 31}, {978, 32}}|>]}, <|
-                    CodeParser`Source -> {{978, 26}, {978, 32}}|>], 
+                    CodeParser`Source -> {{984, 31}, {984, 32}}|>]}, <|
+                    CodeParser`Source -> {{984, 26}, {984, 32}}|>], 
                     CodeParser`LeafNode[
                     Token`Comma, ",", <|
-                    CodeParser`Source -> {{978, 32}, {978, 33}}|>], 
+                    CodeParser`Source -> {{984, 32}, {984, 33}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 34}, {978, 35}}|>], 
+                    CodeParser`Source -> {{984, 34}, {984, 35}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 35}, {984, 
                     40}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 40}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 40}, {984,
                      41}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "order", <|CodeParser`Source -> {{978, 42}, {978, 
-                    47}}|>]}, <|CodeParser`Source -> {{978, 35}, {978, 
+                    Symbol, "order", <|CodeParser`Source -> {{984, 42}, {984, 
+                    47}}|>]}, <|CodeParser`Source -> {{984, 35}, {984, 
                     47}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 47}, {978, 48}}|>]}, <|
-                    CodeParser`Source -> {{978, 34}, {978, 48}}|>]}, <|
-                    CodeParser`Source -> {{978, 26}, {978, 48}}|>], 
+                    CodeParser`Source -> {{984, 47}, {984, 48}}|>]}, <|
+                    CodeParser`Source -> {{984, 34}, {984, 48}}|>]}, <|
+                    CodeParser`Source -> {{984, 26}, {984, 48}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 48}, {978, 49}}|>]}, <|
-                    CodeParser`Source -> {{978, 25}, {978, 49}}|>], 
+                    CodeParser`Source -> {{984, 48}, {984, 49}}|>]}, <|
+                    CodeParser`Source -> {{984, 25}, {984, 49}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`LeafNode[
                     Token`MinusGreater, "->", <|
-                    CodeParser`Source -> {{978, 50}, {978, 52}}|>], 
+                    CodeParser`Source -> {{984, 50}, {984, 52}}|>], 
                     CodeParser`LeafNode[Whitespace, " ", <||>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 53}, {978, 54}}|>], 
+                    CodeParser`Source -> {{984, 53}, {984, 54}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 54}, {978, 55}}|>], 
+                    CodeParser`Source -> {{984, 54}, {984, 55}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 55}, {984, 
                     56}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 56}, {978, 
-                    57}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 56}, {984, 
+                    57}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     57}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 57}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 57}, {984,
                      58}}|>], 
                     CodeParser`CallNode[
                     CodeParser`CompoundNode[Slot, {
                     CodeParser`LeafNode[
-                    Token`Hash, "#", <|CodeParser`Source -> {{978, 59}, {978, 
+                    Token`Hash, "#", <|CodeParser`Source -> {{984, 59}, {984, 
                     60}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "2", <|CodeParser`Source -> {{978, 60}, {978, 
-                    61}}|>]}, <|CodeParser`Source -> {{978, 59}, {978, 
+                    Integer, "2", <|CodeParser`Source -> {{984, 60}, {984, 
+                    61}}|>]}, <|CodeParser`Source -> {{984, 59}, {984, 
                     61}}|>], 
                     CodeParser`GroupNode[CodeParser`GroupSquare, {
                     CodeParser`LeafNode[
-                    Token`OpenSquare, "[", <|CodeParser`Source -> {{978, 
-                    61}, {978, 62}}|>], 
+                    Token`OpenSquare, "[", <|CodeParser`Source -> {{984, 
+                    61}, {984, 62}}|>], 
                     CodeParser`LeafNode[
-                    Symbol, "$TrieValue", <|CodeParser`Source -> {{978, 62}, {
-                    978, 72}}|>], 
+                    Symbol, "$TrieValue", <|CodeParser`Source -> {{984, 62}, {
+                    984, 72}}|>], 
                     CodeParser`LeafNode[
-                    Token`CloseSquare, "]", <|CodeParser`Source -> {{978, 
-                    72}, {978, 73}}|>]}, <|CodeParser`Source -> {{978, 61}, {
-                    978, 73}}|>], <|CodeParser`Source -> {{978, 59}, {978, 
-                    73}}|>]}, <|CodeParser`Source -> {{978, 55}, {978, 
+                    Token`CloseSquare, "]", <|CodeParser`Source -> {{984, 
+                    72}, {984, 73}}|>]}, <|CodeParser`Source -> {{984, 61}, {
+                    984, 73}}|>], <|CodeParser`Source -> {{984, 59}, {984, 
+                    73}}|>]}, <|CodeParser`Source -> {{984, 55}, {984, 
                     73}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 73}, {978, 74}}|>]}, <|
-                    CodeParser`Source -> {{978, 54}, {978, 74}}|>], 
+                    CodeParser`Source -> {{984, 73}, {984, 74}}|>]}, <|
+                    CodeParser`Source -> {{984, 54}, {984, 74}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|
-                    CodeParser`Source -> {{978, 74}, {978, 75}}|>], 
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 74}, {984,
+                     75}}|>], 
                     CodeParser`GroupNode[List, {
                     CodeParser`LeafNode[
                     Token`OpenCurly, "{", <|
-                    CodeParser`Source -> {{978, 76}, {978, 77}}|>], 
+                    CodeParser`Source -> {{984, 76}, {984, 77}}|>], 
                     CodeParser`InfixNode[CodeParser`Comma, {
                     CodeParser`InfixNode[Plus, {
                     CodeParser`LeafNode[
-                    Symbol, "level", <|CodeParser`Source -> {{978, 77}, {978, 
+                    Symbol, "level", <|CodeParser`Source -> {{984, 77}, {984, 
                     82}}|>], 
                     CodeParser`LeafNode[
-                    Token`Plus, "+", <|CodeParser`Source -> {{978, 83}, {978, 
+                    Token`Plus, "+", <|CodeParser`Source -> {{984, 83}, {984, 
                     84}}|>], 
                     CodeParser`LeafNode[
-                    Integer, "1", <|CodeParser`Source -> {{978, 85}, {978, 
-                    86}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Integer, "1", <|CodeParser`Source -> {{984, 85}, {984, 
+                    86}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     86}}|>], 
                     CodeParser`LeafNode[
-                    Token`Comma, ",", <|CodeParser`Source -> {{978, 86}, {978,
+                    Token`Comma, ",", <|CodeParser`Source -> {{984, 86}, {984,
                      87}}|>], 
                     CodeParser`PostfixNode[Increment, {
                     CodeParser`LeafNode[
-                    Symbol, "ORDER", <|CodeParser`Source -> {{978, 88}, {978, 
+                    Symbol, "ORDER", <|CodeParser`Source -> {{984, 88}, {984, 
                     93}}|>], 
                     CodeParser`LeafNode[
-                    Token`PlusPlus, "++", <|CodeParser`Source -> {{978, 93}, {
-                    978, 95}}|>]}, <|CodeParser`Source -> {{978, 88}, {978, 
-                    95}}|>]}, <|CodeParser`Source -> {{978, 77}, {978, 
+                    Token`PlusPlus, "++", <|CodeParser`Source -> {{984, 93}, {
+                    984, 95}}|>]}, <|CodeParser`Source -> {{984, 88}, {984, 
+                    95}}|>]}, <|CodeParser`Source -> {{984, 77}, {984, 
                     95}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 95}, {978, 96}}|>]}, <|
-                    CodeParser`Source -> {{978, 76}, {978, 96}}|>]}, <|
-                    CodeParser`Source -> {{978, 54}, {978, 96}}|>], 
+                    CodeParser`Source -> {{984, 95}, {984, 96}}|>]}, <|
+                    CodeParser`Source -> {{984, 76}, {984, 96}}|>]}, <|
+                    CodeParser`Source -> {{984, 54}, {984, 96}}|>], 
                     CodeParser`LeafNode[
                     Token`CloseCurly, "}", <|
-                    CodeParser`Source -> {{978, 96}, {978, 97}}|>]}, <|
-                    CodeParser`Source -> {{978, 53}, {978, 97}}|>]}, <|
-                    CodeParser`Source -> {{978, 25}, {978, 97}}|>], 
+                    CodeParser`Source -> {{984, 96}, {984, 97}}|>]}, <|
+                    CodeParser`Source -> {{984, 53}, {984, 97}}|>]}, <|
+                    CodeParser`Source -> {{984, 25}, {984, 97}}|>], 
                     CodeParser`LeafNode[Token`CloseParen, ")", <||>]}, <||>], 
                     
                     CodeParser`LeafNode[Token`Amp, "&", <||>]}, <||>], 
-                    CodeParser`Source -> {{978, 25}, {978, 99}}|>]}, "File" -> 
+                    CodeParser`Source -> {{984, 25}, {984, 99}}|>]}, "File" -> 
                     "/Volumes/Macintosh \
 HD/Users/antonov/WL-TriesWithFrequencies-paclet/Kernel/TriesWithFrequencies.\
-wl", "Editor" -> Automatic|>], "Hash" -> 2237349937119971386, "Position" -> 
-                   "\!\(\*StyleBox[\"\\\" (L978,C98) \\\"\", \
+wl", "Editor" -> Automatic|>], "Hash" -> 6032441920684333258, "Position" -> 
+                   "\!\(\*StyleBox[\"\\\" (L984,C98) \\\"\", \
 Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
 Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", False]]], \
 Rule[StripOnInput, False]]\)"|>]; 
@@ -8207,8 +8189,8 @@ Rule[StripOnInput, False]]\)"|>];
                   Not[
                    FreeQ[
                    DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                    "8c135a29-35ae-4b34-adc1-f9c68cd9ef91"]]]]]], Appearance -> 
-             None, BoxID -> "8c135a29-35ae-4b34-adc1-f9c68cd9ef91"], 
+                    "c4af8242-1e44-4a0e-9007-3377e1cd2241"]]]]]], Appearance -> 
+             None, BoxID -> "c4af8242-1e44-4a0e-9007-3377e1cd2241"], 
             "LinkHand"]}}, Alignment -> {Left, Baseline}], 
         Grid[{{"", 
            Style[
@@ -8285,8 +8267,7 @@ Rule[StripOnInput, False]]\)"|>];
                     FrameBox[
                     StyleBox["\"\[Checkmark]\"", 
                     Directive[
-                    RGBColor[
-                    0.3607843137254902, 0.596078431372549, 
+                    RGBColor[0.3607843137254902, 0.596078431372549, 
                     0.3803921568627451], 25], StripOnInput -> False], 
                     ContentPadding -> False, FrameStyle -> None, 
                     FrameMargins -> {{0, 0}, {0, 0}}, StripOnInput -> False], 
@@ -8308,12 +8289,12 @@ Rule[StripOnInput, False]]\)"|>];
                     TagBox[
                     TemplateBox[{"\"Version\"", "\": \""}, "RowDefault"], 
                     "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"1.0.3\"", "SummaryItem"]}]}, {
+                    TagBox["\"1.0.4\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     TemplateBox[{"\"SubmissionID\"", "\": \""}, "RowDefault"],
                      "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"7269\"", "SummaryItem"]}]}, {
+                    TagBox["\"9712\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     
@@ -8351,31 +8332,31 @@ Rule[StripOnInput, False]]\)"|>];
                     Dynamic[Typeset`open$$], ImageSize -> Automatic]}, 
                     "SummaryPanel"], DynamicModuleValues :> {}], "]"}], 
                    Short[#, 0.75]& ], 
-                  "OEM6eJztWF9vG0UQj+OzHTuuG9ogBE/\
-WKQLx4CopKSm8BOcSt5Ga1vK6BYSQur6bs1fc7Z1295Ka78ATrzzwreAZPgAfAWbvn51zKgUniD74X\
-u60Mzvz29mZ+\
-Y3OLcmNAb04Ct6AdCvyvVOuQIQCFFUs4LjslmR1EGgF15DGMyaVuy6rQzrGFVIjkW2DlGSTRL5PxfQ\
-pUIeUvnPLcut4yqnP7LPAiTzQ29fz7WUCSraG0xAkqNdBCHxnR1Z61JOQSbczKfgjcAjCgZ0dUhmg/\
-SnqbA7BDz1cTBAmhsvybp9yIOCBrQJx2acxQBiZk4qsPRHMubw5e9e0ES2qyvpRpFQWhkZ6osTuR72\
-TvmDnCOF1TwRcnXBnADKIhA2k3js5YsqnoSRbaWBw0ws8JwgNXkM5Bo9OwZGtxEUv4raO+\
-NuiYwxFBPkxGt0wBCoox+AbzwM+k9SPqASiph64a4Wz10/OqRdRjIysdyMV+\
-HjFdi6tnoGaBA5p9AVgbBU7nzPa9diY+8BVFlBZtUBnSvaeqZ76dAyE/QgYsVoasXzXJb+\
-VIfNBirX4aX6Vr+DGphUJgYZfIWAgd3oYX4uGT4GNJxpCpR9coM+\
-S3O6OZOBFCub15Z0zOubMZXacw9bfeN0bPUH9+FLLciMOj07fivnHLz+baLB+\
-zATmjD4zygdPjqzAC4T4IH5+OxT34+fPQ/FN/Px+\
-aH2Yn7hJlGDhC37Kw0jNsjgRtiyEjsD61HEYHxfFjRhWjKdwj81YckbFmHE5n8b6ba1Za8Xvt2Opzp\
-I9s1PK31ltl4u1XSyydCtpmVma6ww1iWF+2TZJA80cg0sjT5H305Q/VeB3OQ+SVkLKf/\
-3061zr2DD71PZAmXnv0Po3QVY1X748PV4e0cfmyHb2HsHI6Twe7bqd/QMbv3YfP+zY+\
-wd036Z7ewf7jwp4s8hvpSFeqJRMg9QwpyKfy7kjJkVhPAN3pmYg7kWdKwq2oZewi4CCYlrdTcFohHE\
-pXhvLop/rA8q8kpDaOtev7dVa//fO5vqcUehz22QSXOhC4GNrgk3S1n2qGKLN5xESi8AC+\
-2FB1sLGjiWLHYFJ3UDKs1uOTU+5om+Soi1u/Y/ToDwMwnc3Abb0nXiMQz+\
-QLCWz5IJLVinXSpjsf2Fgywvk0gxcbN0rCl5R8BIUXFtR8C1T8A3w1s1XWEAIZHnINXPvwe6Dz24PU\
-8sk0chnUsO6SSyr5sHDz7+4PVxbZlKhloDY3/LIYga4xTs8Qx7Gjrc8oE/\
-Nb7Gc2mFcDW2RFlebyfYIsGW0w2jkMTkB5/\
-aiWTFRvjzi7bwFzJJlNZmuJtPVZLrEZDqbkopD3xUz1Zx50kzrTY+rXnGsvH/pB1gyFmUDISl9j+\
-r537N7i8XcrXZIc57mSTUh6w4xNMeSneswZYfUUoIjlZimOhrzjF2IoTmiQ1qXW3syo+\
-PmtLOST67ZH2cZkPyEoyNvIQM2Thx2peBesudrpibpyCYTIP8AtDT3zg=="}, 
-                 "ClickToCopyTemplate"]]}, {
+                  "OEM6eJztWM1u20YQtixKsmRFcRIXRXsSCKNFDwrswIHTXlyZthIDcSJolaR\
+FUSArcigtQi6J3aUd9R166rWHvlV7bh+\
+gj9DO8k8y5QCu7KI9iBcSO7Mz387OzDegW5IbA3pxFLwH6VbkvVOuQIQCFFUs4LjslmR1EGgF15DGc\
+yaVuy6rQzrGFVIjkW2DlGSTRL5PxfQZUIeUvnPLcut4yqnP7LPAiTzQ29fz7WUCSraG0xAkqLdBCHx\
+nR1Z61JOQSbczKfgjcAjCgZ0dUhmg/\
+SnqbA7BDz1cTBAmhsvybp9yIOCBrQJx2acxQBiZk4qsPRXMubw5e9e0ES2qyvpRpFQWhkZ6osTup72\
+TvmDnCOFtTwRcnXBnADKIhA2k3js5YsqnoSRbaWBw00s8JwgNXkM5Bo9OwZGtxEUv4raO+\
+IeiYwxFBPkxGt0wBCoox+AbLwI+k9SPqASiph64a4Wz10/OqRdRjIysdyMV+\
+HjFdi6tnoGaBA5p9AVgbBU7nzPa9diY+8BVFlBZtUBnSvaeqZ76dAyE/QAYsVoasXzXJb+\
+VIfNBirX4aX6dr+DGphUJgYZfI2Agd3oYX4uGz4CNJxpCpR9coM+\
+S3O6OZOBFCub15Z0zOubMZXacw9ZfeN0bPUH9+FLLciMOj07fivn7zz+ZaLB+\
+zATmjD4zygdPj6zAC4T4OH5+PRQP4uePQ/FN/\
+Px2aH2Sn7hJlGDhS37Kw0jNsjgRtiyEjsD61HEYHxfFjRhWjKdwj81YckbFmHE5n8b6ba1Za8XvD2O\
+pzpI9s1PK31ltl4u1XSyydCtpmVma6ww1iWF+1TZJA80cg0sjT5GP0pQ/VeB3OQ+SVkLKf/\
+74y1zr2DD71PZAmXnv0Po3QVY1X706PV4e0WfmyHb2HsPI6TwZ7bqd/QMbv3afPOrY+\
+wd036Z7ewf7jwt4s8hvpSFeqJRMg9QwpyKfy7kjJkVhPAd3pmYg7kWdKwq2oZewi4CCYlrdTcFohHE\
+pXhvLop/rA8q8kpDaOtev7dVa/+\
+fO5vqcUehz22QSXOhC4GNrgk3S1n2qGKLNFxESi8ACe7cga2Fjx5LFjsCkbiDl2S3Hpqdc0fdJ0Ra3\
+/stpUB4G4f83Abb0nXiMQz+\
+QLCWz5IJLVinXSpjsP2Fgywvk0gxcbN0rCl5R8BIUXFtR8C1T8A3w1s3XWEAIZHnINXPv4e7D/\
+dvD1DJJNPKZ1LBuEsuq+eXB3qPbw7VlJhVqCYj9LY8sZoBbvMMz5GHseMsD+\
+sL8FsupHcbV0BZpcbWZbI8AW0Y7jEYekxNwbi+aFRPlyyPezlvALFlWk+\
+lqMl1NpktMprMpqTj0XTFTzZknzbTe9LjqFcfKB5d+gCVjUTYQktL3qJ7/Pbu/\
+WMzdaoc052meVBOy7hBDcyzZuQ5TdkgtJThSiWmqozHP2IUYmiM6pHW5tSczOm5OOyv5/\
+Jr9cZYByU84OvIWMmDjxGFXCu4ne94wNUlHNpkA+RuXX/fG"}, "ClickToCopyTemplate"]]}, {
               "\[FilledVerySmallSquare]", "Resource object:", 
                RawBoxes[
                 TemplateBox[{
@@ -8563,7 +8544,6 @@ svthfJj/YHyY/2F8WPjAzIOFH0p8AQA7u3Ea
                     0.5529411764705883, 0.6745098039215687, 
                     0.8117647058823529], 
                     Opacity[1.]}], 
-                    
                     FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}}}, {{{
                     103.52159881591797`, 249.46669006347656`}, {
                     43.27159881591797, 214.7586898803711}, {
@@ -8594,8 +8574,9 @@ svthfJj/YHyY/2F8WPjAzIOFH0p8AQA7u3Ea
                     ImageSize -> 12, BaselinePosition -> Scaled[0.1], 
                     ImageSize -> {Automatic, 35}}], 
                     StyleBox[
-                    "\"AntonAntonov/TriesWithFrequencies\"", FontFamily -> 
-                    Dynamic[
+                    
+                    RowBox[{"\"AntonAntonov/\"", "\[Ellipsis]", 
+                    "\"thFrequencies\""}], FontFamily -> Dynamic[
                     CurrentValue["PanelFontFamily"]], FontSize -> 
                     0.8 Inherited, ShowStringCharacters -> False, 
                     StripOnInput -> False]}}, 
@@ -8616,61 +8597,84 @@ svthfJj/YHyY/2F8WPjAzIOFH0p8AQA7u3Ea
                     DefaultBaseStyle -> {Background -> None}, 
                     BaselinePosition -> Baseline, Method -> "Preemptive"], 
                     "]"}], Short[#, 0.75]& ], 
-                  "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\
-Qrkbz76DyFDOWjspc8Di6uGGK//+\
-112Fu17fwV79umvmOjt8vFKR96jphPrUDKiNBsQcueavZ1j5Lt+\
-LutkJVa6RGl4CGlpVXYkVsrDSEw5sy3VrLFfkYaxMw9zK+\
-ZB5gA3G1FoeU6uLiRKCcjTJU5f1QIDKfomdZ2qpw3eWZHPrHny62BFE88n5nt4PnGRsJE4cq1PAJ+\
-yEmbrDJjqVFXNzEcCz4VvT+\
-TlnRlAa0KwXOhUDU1lH9pocz9SIN6sGIkwgiNpqEqEFYBH8AnOCSyMwCv88gUBSAnD0PHa5mZkZfRw\
-U0ZLxslaS0ktLTdJWqo5IkpJaEShrmHF0FA2L9sck+SV7TAm+9fEWuL+tg6J/\
-NeyptUvtXWIbZK4cmVHW3szqO3L6hAlFXV4ILoeVBPXdMO4mE7mk6nUBTYflQmCs6sYx9JEYtGOJfK\
-mYYWqiNTu54vSt0TohlgicUEnL15tVOAJUOyLa8gnIcjkfKIq+\
-1KiqujppNmgxX0GXVbfCh3BuDJGOAjx3b4MWWZf3L7OcxrAInepFaKz0ppcAlSSAy6dUnEuPWw9ySe\
-M58W8xA+zZebIrlbTpm5IHAud22iJBYbBtG3Jq2OZrad4QFwroIe0OoSL1hoqm78yW1La6zicG0BCy\
-9CDRB0KJUQkSjSp7HRRzcZ0KgbRBhENz+pbHCFjjQiCkoLpKefJrzKbOqsa4hjTPWvo/\
-zkMPP2afusGwFK6JuT0gRF6gJmVB3OB3fZLkpUdbkq5JJTU8DWXS5zXeqleUqqXlOolpXpJqV5Sqpe\
-U6iWlesm1rVCpXlKql5TqJaV6SaleUqqXlOolpXpJqV5SqpcsXL2kqlQvKdVLbrV6yVUNqBW+\
-ArMZDcl4PtF4hbi0jiLgvodE3T0CqBBoSAqgTojkwVO2IEDrhG7REH0pRVXUIcr2wzEjx9YT6DSmAd\
-RFxLK5uBwkNFQYN8BVlLX1QrcmpWlmV5zXgl1p/0DhBmydm7JBr8G5DcImpAwpqpj0RWESinge+\
-7BOaG3xderI19rSukq4tqVdTxYHG74BXSb/zEv1yutTXSPcBxGe1wFQKaxsamm6NnWLhIGBdd3F6/\
-qCUEwAzAWlVG0tVVtL1darVlvzb7zOQuYcr6C26UGtteNoCTYZd5RKbyv4BZ75isuLnMC9jWh1/\
-Iqvs9IPvPS9Enz+qq+FRJIeIqCxmKPBD2q5JmoeqDDvGj+otM49UM5OMz+osb0NgchCv+P4wbL8/\
-bZeM9/ziR889MLq4HdkJpOZfTtqse35CzGLSfA0i7rSTGD7QbVpDvmuRr+\
-81IToIOt3kT1XnbStZVWr3CK1+tvFNZK/TW7/kl9sbZX8UG6T4i2xttXy6tX5uDZ/\
-2yjGkrPielGPrMzZscwcQ9cvRL4PkY2HzbL+/wC8mhMI"}, "ClickToCopyTemplate"]]}}, 
-             Alignment -> Left, 
+                  "OEM6eJztHGtsHMX5znc+v50HKVWB0uvGbUOLYydxcEAqd/bZZ1vN4/\
+A6vJKA9/bmfIv3di8ze7YvlZBbaCUKTdMChdISTFsQ5UcFSJUCBeyIVhSh0ooGmpYWHMIrSkmiikdA\
+tHRm9jW3d+fbOK4D0o0ib76db+\
+Z7zPfNfPt9u5f0otpBYbxbnQAoWY2WDSgagBkINEGTVAXfTnpRYFAlCEk/8m+\
+UkJasQoEhYQTf4ZsHAVKzUARb4tcBUeMb+\
+Gw6LcBcPxASvHdb0oeW9uQUIS2Jm9REVgZkliprFh8PNNQ8lMsABLRhNQOUlhZUHRVkBMzeFWYvSMd\
+BgsdcgZYWvnoQz5/DOA1DIJ2R8U2dUX1iH1oSExTAAxmzpMJ8mv5BzIZJpBrV9EEpkT/\
+YvNaQSUhXANV1ZzXN1Ea9IZE+7znR3hiUxjALw1GoKlqvkjB1wtdFe7slLS1kEL/\
+UUAwetAXLCSBhnrDSA2QhBxKoWScRzSoiUXwp7fiHYBZYYtR3ZTJAgIIiAuTfrCp2T123gACv5WSQ9\
+Dhkr+sdE+SsgDWD6rqymprGKy1avYFNQEupCb4+\
+BgHWrSaNMZN2ydKIkgaKZioUBSKAGIx5tVEH0sII4KVdAGusxtCYNSqPbvWQlAYIemhrDFt38MDGSB\
+ZCPPHlmGHAN0WxfiNCph9IIynCQnVMHcc0vWhFVxypclYDLD5q2iSMKFJSEqkpRz7Ga1pLVaKvXEMf\
+FDIpSUQEXGYoyYvqhvC9UQUgBL+54td9h3YlQpb5YF+\
+JCiKIqjBt3cOTDvZ1R1RZhXD6SdKOhWA7bbMh+\
+DnangkRLWzJCKKk5QxJT5Bpm6OSLIMEZnsMMB6231NV7fNUeTxe+1+\
+JewHnPf12E7nt9fkw5PjrAC2SK6sCVZSxKSmM/85W/eqiMANvv+eG68g1c+\
+uMQmGYS1M8btk4uSo7WxELH3z6yh1h53wWkeffvpQdtEcOieykHs9wiiVqwhZTxniLCDsfJlKjS+\
+KhlHfv/UVO52z/GLk+59mHdEmCVJKP9uxWwgz+eU/eOaoz9YqY13/kvS52fN78mOh5VZTITVT83f3/\
+MZBiOlJ/7y5y/fD68ym8+kc8hQPfOpRiYY/noRSL73k+3Zk337OH1lMm/\
+nsMGZJ3kOvm2w7kwRaTBnylb2o7C0/8pnU7O99Ew++2sfTufO1721h+JluuWEmuo4//\
+gcLDfZCjdOOvUTh4jodjlWLCj9x9LgtP3h7plNjxpn7M+U39mfRjh+8dZ/mb5R4eZ/k3YVM+\
+EzblN2FTP+Z8pv7y1su1nz/yMGmHQvDHt5P2egh++AFpR1z6+X6Pz+\
+vPc9z9K33eat1qJ3spYz94QVfsI29fTRX24QUJFg7vvm9rmMGffPSja8LO8a4FWkHbgRD8PG3/\
+DMHbbiXt8OkLNPnSwSQrkAmbDM/6b9zBCmTCpsB5410L9MFJ0t4KwZ/\
+9lLSjIXgNbcdOX6CplzZQU5s6eQ/dF2aj6yiDJ65+h5qy2T/5+35AV4Q/u79YPx3vWqCzaXsjBP/\
+yPGmvLqDJTR4LDxOGZv5+KEsFevAqulK/nLwZsfDSe5+gu7OJ/8BX1+8MO8e7Fmjv3aRhS/\
+ssbX9dSJM7/nKGFciETYanuPskViATNgXOG+9aoO20/\
+SsEH3uUtCMheD1tC2Bys8mP6QqEH396gjK87BbKYEt8Jz3SzP5VjedqVIAH3xgu1k/\
+HuxZoPW2vMwKtpe3VBVih29fRM3Z2p358xOJ79ZX5bTjBwp69/6abgok/U3/\
+JtWHneNcC6XvBSyHI03Y4ZHjVi6cvUHi8b4wVyIRNhh96pRuyApmwKXDeeNcCbaMNb26X0oYDz7t+\
+QtpCnEP3nqArED7rPrrL7dnwLvUlzw6vHpIZ/TP376C73Ozyg6PF+\
+un4RTU5ny0QkcZPpJkZ09U7ecdJyl37TTdS9e97d1ANM/17Igd2hp34Z5x7y/qDN9KTI7ZvO+\
+UylvgTz3qD54b+aNiJv6hBTVHum27WI5Ov30G5nfnuH/UD/ZYeKs0D336WwjN3PadHMiz+Ged+\
+Vjh0FeEmeHy1bilP/Zxy2d53kFpS8MCDFJ5AT9E1ycNf1NO9GPdT13dSXc4cPEK8d+r1jnUUfmjrD/\
+X9tumKzeR68B9P0JMvD//Mc/8eoFwOa7eS653NdSMUzrx/lO5Ft72zil77M9M69yx+\
+ssaR92joQhkgaoMkGxDxWrf9XRP4Wd/KOhmJlW5BHB2BalZJOBIr1VEopJ3Zlnp6c0gSR5EzD/\
+NJzIMUYa6Qo8hKC68pIogpYKZLnLpq5DUoZbYoA0omq5mdATuz5rPXwbAmM59o95j5xFpuM1bkJUGO\
+/4yRMBvQQLpLUVQ9H8n7jn9/ysZn/\
+lcklWcQ5FdyXYqmKvSPOtY2BCWArpC0VBSCnVmgiBjkMMNWboiv51aNrVndvnrNBRyzxFjpUbx6co7\
+H/MdVTbX6akmfoUZjzapIVpVwLMiRxkgTVrWSAlDSQMIatYJPqeNEd8pIJCVAQSR5NKdy6+\
+haEy8jqSm8BLmNYAzIxjl/KDT3KpidSw3VFOTvTAy+BtPIphVkKc+\
+44r8gaaP58coV4tSSZKMssQ5BzKgHyEADTl6WGLyQhWVNrzwrhdnKEvwUSWuaVHmyGSkjiDWSOaka/\
+vjnEO8nU1gZbsI+Y7hVHOfscmPtJLvr2toxfkwQsU7zSWGs3Y+\
+5oreE6wFIxGZCJndPdpAzs9IomFRhUISA4gUFJRFMC4qUycr6DTUZ1Ih3BVdlIEhKExgCAF0QHMfeF\
+kwy7lZcgMWw1SK28ck3VrdUI1WnToypFPjzybjboRo2Z9NxADcJcLSgrzmGx2oxCEQJkaPHZ68ynTq\
+naMIEpV0w9P9sBr4hNfPJNYCl5oYaU5FklIP0BfaykQutBZ2RGlZEVtG8a1jOWKtSxKoUsSpFrEoRq\
+1LEqhSxKkWsShFrfitUKWJViliVIlaliFUpYlWKWJUiVqWIVSliVYpYC1fEaqgUsSpFrDOdFq4UsT4\
+FRayyAjRy3wC5cRUm0Hy2CMc3L8b5wHsv5H3chRwf4MjOwPFNXMxmnoDsPoHBHkETgmlJwWZEwCEwo\
+VngMsw62Vp4kMEeTVLsqBq7OdTyBfa4knYZ16OKWeKuwiktmFNQcx8EXErTMuiStjZolCjQ6nFVTuK\
+zS5TVbGK1qKbbdAsbBBlSPlFhzsZti4uJNetBPNG6Id6ebO3oFPH/\
+2jesbRU7OoUOUVizprNjfRvHi4tAhW/sx54D8Z4zunVw43yUu4LbAqURCe/PwUG8T+\
+ENzL1DNHFr24NdGRhc2752HTe/pd2IFwdpwa2ZBP7PYpKu5bZuHehxT/HLnJsVmRcryzkaWCSCY/\
+jkO6UtqYaj5/M8qRq6nyfV0mq3PbAGxwQkJNRrOoUf8hlcIc4qFuYQnisiS9jbh82KYlydaGlBK+\
+fESUgo09KSNOqFX5p7PlpjxNi1KKDXG/\
+G4uk1qFgEVKwNzGqBc0xiFnHbOUApj1JphII64rJKZHZfop+\
+VbJPCv74JQHU8BIWEfqobc8AvfOXrZvvNfCOlxuDFNXkEOj4+pcm5EL7v68/\
+mIfGwQmrVqcxFPxFPYPV1kBMsjU+xbR9tT5G415Zxw1A12SQDS5xTny1hWYGCMPBxy9Lw1PUePHr/\
+9bfpUqVlzTjvnDM3RY1Czo8WiDz3240Ck2b4Zk1X8zKSM5AVqukrt1cPqTdL2RghH0tU0kuYD+\
+ubGN/RIgqyO6NXovMCWlwUFB6sxWZAUlyHvM7YQrkLySIN9zwz+\
+rKWzupoHyaMe7hsUElIWMW9b6I92Ou/FLd2KwCnmJgHiUwUVKMunz2mYatU8fa3wqftFM4H+\
+ZgheS9vxivNVnG8BnI+1tfNoezwE79lL2sshePJ90t48g97o0hfm657LI2o6Q/joncAPMwgxb+\
+W4PJGLuzX7owHFQgObM0rr/DlpjVEroIhfmxMRGiHNJgE/\
+oE0kGx1M5RvtCdNNPR5Hj8fDpvHyx9Jd5TtHQwXubzu/\
+iVKCro0xXXLWUmNtzpx0i0jjpDtdnu50KXmny8tbONZktbyey9N1bnBFpCmJESovTXkLKC1NeQsoLU\
+15CygqTf0WHMnKQo51pWrU0KVIacH4RQs7EVvOu8yDIOKNNDIp4+\
+X2a3e9MiAP6KjgLbslPSApZGWtJwv1tKs9vDDtSt9N9OefwVXonD6gpgH2V3EI00JJFaatXxY5g8G3\
+c7kLFsQykQKzPlHSWZjZyocItVQ4ndFm5twu8snEggUK86B5muFCfr0gJsBT2+\
+PL2vZihCPWiR7BAQAmHxMS5Fy3qeW9BHtW3mGoFy8KX1+132x15HBL1CmskKiBhkSY/\
+KuT95eNiwIDmiCz73qXeCphfWCB4iDk+\
+GkgjLp6zrXM0lDPRMEW6SavwLe4yeucSsjjNvtQZCWdi7zU2D1LY8zx6rOr95sDl2VBlqnG1Aypqqx\
+JGf4rfUALaikQlPOyRDS3nZJQ0MxUFrwKjmegUZ07XTXymqAkBJgwqqr5b4MPKJKG7VPaRR0abzBzR\
+KMu1hprr8nQinF+LPyy4lXIyvK8XLrk7lAkctcfNPX7dI8qvM8+\
+JFQxvopPWRup8DsBLwrwoiCDRKFPFyuuFUkCVj7CqXyEs0hm8Gn+CIeJvx3ftxQJP5jp+\
+UbD48iXOae00/DeHSRsyz9Wu2paeT953YD/Ytn3AzAmqZq4OzNb+UaTEhGPD+jVrla+\
+5nL9LOGrafWiFQchdj2Wjy10lbWVX25X2Daq+usfWA8+UjLrNKt04+\
+PjhfU5NX6dXZKju36bkJHaMNutfL0uTlSiEVhDhAwyfsOwt+\
+ykG9qBuG59Umy9eEPHxa0dQnJt64ZkR2drx0Ud8fiapNh+UXKdbdf67xAKcbnArmt7E1LRjuX6GLJ+\
+xqmC9K+9/gfMCO3O"}, "ClickToCopyTemplate"]]}}, Alignment -> Left, 
              ItemSize -> {{Automatic, Automatic, Fit}, Automatic}], FontColor -> 
             GrayLevel[0.5], FontSize -> 12]}}, 
          ItemSize -> {{Automatic, Fit}, Automatic}, Alignment -> Left, 
@@ -8727,56 +8731,56 @@ Fu6DuJJG2H9mK2QZ3X1Y8rjKVdsLU11Qbnfn/Mae/TiO1RZHs2bny+6Vwq5Sfi8TnHKi+1+K4NOh"]\
    "LastBuiltArchive" -> 
     "/Volumes/Macintosh \
 HD/Users/antonov/WL-TriesWithFrequencies-paclet/build/AntonAntonov__\
-TriesWithFrequencies-1.0.3.paclet", "FileHashes" -> ByteArray[CompressedData["
+TriesWithFrequencies-1.0.4.paclet", "FileHashes" -> ByteArray[CompressedData["
 
-1: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
-WyIER1WAoi2Xl/a98ys8e7Og/wO7wCDtsCoLHQ==
+1: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
       "]]}, "TryRealOnly" -> False},
 CreateCellID->True,
 DynamicEvaluationTimeout->60,
@@ -9847,6 +9851,7 @@ AsyncronousResourceInformationUpdates = False,
                 StripOnInput -> False], ButtonFunction :> 
                With[{RSNB`nb$ = ButtonNotebook[], RSNB`$cp$ = $ContextPath}, 
                  Quiet[
+                  
                   Block[{$ContextPath = RSNB`$cp$, 
                     ResourceSystemClient`$\
 AsyncronousResourceInformationUpdates = False, 
@@ -10117,6 +10122,7 @@ h/Fh4QMzDxZ+6PEFAOibv7E=
                    FaceForm[{
                     RGBColor[0.66275, 0.80392, 0.56863], 
                     Opacity[1.]}], 
+                   
                    FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}}}, {{{
                     356.47, 215.77}, {296.28, 250.59}, {356.47, 285.27}, {
                     356.47, 215.77}}}]}, {
@@ -10618,6 +10624,7 @@ AsyncronousResourceInformationUpdates = False,
                 Quiet[
                  
                  Block[{$ContextPath = RSNB`$cp$, 
+                   
                    ResourceSystemClient`$\
 AsyncronousResourceInformationUpdates = False, 
                    DefinitionNotebookClient`$SuppressDynamicEvents = True, 
@@ -10867,6 +10874,7 @@ Repository\"", True}, "OrangeButtonTemplate"]]], StandardForm], Evaluator ->
                 FaceForm[{
                   RGBColor[0.96078, 0.50588, 0.19608], 
                   Opacity[1.]}], 
+                
                 FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {
                   0, 1, 0}}, {{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 
                   1, 0}}, {{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
@@ -12463,7 +12471,6 @@ Mn8D1T+bLHr4qqKuQ8bv8LBZfwwdhGSmFwY76zqghzcABAZ3MA==
           FaceForm[
            GrayLevel[0.65098]]], 
          StyleBox[{
-           
            FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1,
              0}}}, {{{4., 3.}, {4., 18.}, {13., 18.}, {17., 14.}, {17., 3.}, {
             4., 3.}}}]}, 
@@ -12541,7 +12548,6 @@ eK5VKuo/wgHpO8mEDcjMcR1wlFwTrhMV4txaOiCx0e/C6XsKs648TOkybPH/
     TemplateBoxOptions -> {DisplayFunction -> (GraphicsBox[{
          Thickness[0.05], 
          StyleBox[{
-           
            FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}, {0, 1, 0}, {1, 3, 3}, {0, 1,
              0}, {1, 3, 3}, {0, 1, 0}, {1, 3, 3}}}, {{{16.5, 2.}, {4.5, 2.}, {
             3.6719479999999995`, 2.0009000000000015`}, {3.0009040000000002`, 
@@ -14294,8 +14300,7 @@ FpG1n6WfSeLb27c2Volz+/dhBxtxrIPL2Ar/oQtZg16JsQ879Gyxx3vEuygx
              0, 0, 255}}, {{255, 255, 255, 255}, {0, 0, 0, 255}, {255, 255, 
              255, 255}}}], "Byte", ColorSpace -> "RGB", 
             ImageResolution -> {72, 72}, Interleaving -> True], "Hover" -> 
-          Image[
-           RawArray["UnsignedInteger8",{{{255, 255, 255, 255}, {0, 0, 0, 
+          Image[RawArray["UnsignedInteger8",{{{255, 255, 255, 255}, {0, 0, 0, 
              255}, {255, 255, 255, 255}}, {{0, 0, 0, 255}, {0, 0, 0, 0}, {0, 
              0, 0, 255}}, {{255, 255, 255, 255}, {0, 0, 0, 255}, {255, 255, 
              255, 255}}}], "Byte", ColorSpace -> "RGB", 
@@ -14377,8 +14382,8 @@ FpG1n6WfSeLb27c2Volz+/dhBxtxrIPL2Ar/oQtZg16JsQ879Gyxx3vEuygx
          FaceForm[
           GrayLevel[0.4]], 
          FilledCurveBox[{{{1, 4, 3}, {1, 3, 3}, {0, 1, 0}, {1, 3, 3}, {1, 3, 
-          3}, {0, 1, 0}, {0, 1, 0}, {1, 3, 3}, {1, 3, 3}, {0, 1, 0}, {0, 1, 0}
-          , {1, 3, 3}, {1, 3, 3}, {0, 1, 0}, {1, 3, 3}}}, CompressedData["
+          3}, {0, 1, 0}, {0, 1, 0}, {1, 3, 3}, {1, 3, 3}, {0, 1, 0}, {0, 1, 
+          0}, {1, 3, 3}, {1, 3, 3}, {0, 1, 0}, {1, 3, 3}}}, CompressedData["
 1:eJxTTMoPSmVmYGBgBGIlIGYC4h1yra8Dd6g4rHN/WCWip+KwRiYqxXq+isNk
 CZYwvlwEDROHqYPpKwUrUHFgAIEDKg5nzwDBG2VU/hlluPogMEMCzm9kOdpv
 aC6OJi/mINR84NRCVwQfIq8M519wufHhi5Yymn4lNPOVHNLAQBHO/6YR03/o
@@ -15561,9 +15566,9 @@ RefreshNotebookPacletFiles[RSNB`nbo, RSNB`cell]]]],
                     DefinitionNotebookClient`ButtonCodeID[
                     341138948110023950]], 
                     DefinitionNotebookClient`$ButtonsDisabled = False; Null]; 
-                    Null]]]], 
-                    CurrentValue[RSNB`cell, {TaggingRules, "Refreshing"}] = 
-                    False]], Appearance -> None, Enabled -> Dynamic[
+                    Null]]]], CurrentValue[
+                    RSNB`cell, {TaggingRules, "Refreshing"}] = False]], 
+                    Appearance -> None, Enabled -> Dynamic[
                     Not[
                     CurrentValue[
                     EvaluationCell[], {TaggingRules, "Refreshing"}]]], 
@@ -15728,6 +15733,7 @@ directory.\""}, "PacletDirectoryChooserErrorTemplate"]], "AttachedMessage"],
                     If[
                     And[RSNB`nbDir =!= RSNB`oldDir, 
                     MemberQ[$Packages, "PacletResource`DefinitionNotebook`"]], 
+                    
                     With[{RSNB`nb$ = EvaluationNotebook[], 
                     RSNB`$cp$ = $ContextPath}, 
                     Quiet[
@@ -16207,8 +16213,7 @@ RefreshNotebookPacletFiles[RSNB`nbo, RSNB`cell]]]],
                     "RowDefault"], ItemSize -> Fit, StripOnInput -> False]}}, 
                  GridBoxAlignment -> {
                   "Columns" -> {Left, Right}, "Rows" -> {{Top}}}, AutoDelete -> 
-                 False, 
-                 GridBoxItemSize -> {
+                 False, GridBoxItemSize -> {
                   "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], 
                 "Grid"]}, {
                TagBox[
@@ -16417,7 +16422,6 @@ GRPf1sw3cDj8VSOm/5G9w5vAHXKt3IZQ/0HDoQHBFwFFwBcEHxR9zQlGcP3o
              1, 0}, {0, 1, 0}}}, {{{17.125, 14.139}, {17.125, 19.86}, {16.875,
               19.86}, {16.875, 14.139}, {17., 13.92}, {21.952, 11.843}, {
              22.049, 12.074}}}], 
-            
             FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 
              1, 0}, {0, 1, 0}}}, {{{7.125, 14.139}, {7.125, 19.86}, {6.875, 
              19.86}, {6.875, 14.139}, {1.952, 12.074}, {2.048, 11.843}, {7., 
@@ -16562,8 +16566,9 @@ GRPf1sw3cDj8VSOm/5G9w5vAHXKt3IZQ/0HDoQHBFwFFwBcEHxR9zQlGcP3o
                  RSNB`initial$ = SelectFirst[{
                     FileNameJoin[{
                     With[{RSNB`cell$ = First[
-                    Cells[RSNB`nbo, CellStyle -> "PacletDirectoryChooser", 
-                    CellTags -> "PacletManifestPanel"], $Failed]}, 
+                    Cells[
+                    RSNB`nbo, CellStyle -> "PacletDirectoryChooser", CellTags -> 
+                    "PacletManifestPanel"], $Failed]}, 
                     Replace[{
                     CurrentValue[
                     RSNB`cell$, {TaggingRules, "PacletDirectoryType"}], 
